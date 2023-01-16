@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I am in my final year as a PhD student at Princeton Univeristy and currently looking for opportunities as a data scientist.
-
-Find me on LinkedIn: https://www.linkedin.com/in/nmfasano/
+Email: nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
 
 1) Data Science Personal Projects
 
@@ -14,8 +13,10 @@ See my google scholar page for publications: https://scholar.google.com/citation
           - Skills learned: google sheets, JavaScript programming 
 
 4) Fun/Miscellaneous:
-    - I enjoy the art of home cooking (see my curated cookbook at )
-    - I (see some of my best shots at )
+    - I enjoy the art of home cooking (see my curated cookbook (with photos) at )
+    - I like photography (see some of my favorite pictures at ) 
+    - I have played guitar on and off for the last 5 years
+
 
 
 
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
