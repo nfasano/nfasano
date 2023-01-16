@@ -1,7 +1,10 @@
+## Nicholas Fasano
+### Email: nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
+
 ### Hi there 👋
 
 I am in my final year as a PhD student at Princeton Univeristy and currently looking for opportunities as a data scientist.
-Email: nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
+
 
 1) Data Science Personal Projects
 
