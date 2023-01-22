@@ -1,14 +1,17 @@
-## Nicholas Fasano
-### Email: nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
+### Nicholas Fasano | nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
+
+[Go to Real Cool Heading section](#techskills)
 
 I am in my final year as an applied physics PhD candidate at Princeton Univeristy and currently looking for career opportunities as a data scientist. I am passionate abut using large datsets to drive data-informed decisions, a skill I have largely developed over 5+ years by using terbyte-scale datasets to uncover new physical insights into high-power light-matter interactions as well as propose future experimental campaigns. More recently, I have rounded out my data science skillset through a combination of personal data science projects and online courses. 
 
 This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
 
-#### Technical Skills 
+#TechSkills
+### Technical Skills 
+
     - Python (numpy, pandas, matplotlib, scikit-learn), SQL, Matlab, Linux command line, High performance computing, LaTeX, Microsoft Word, Excel, and powerpoint
 
-#### Data Science Personal Projects:
+### Data Science Personal Projects:
     1) Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
         - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
         - Skills Demonstrated: Sentiment analysis, NLP, Python programming, classification models and evaluating metrics
@@ -19,27 +22,27 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
         - Project Description:
         - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
-#### Research Projects: (Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
+### Research Projects: (Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
     - 3D simulations : 
     -   
 
-#### Other coding projects:
+### Other coding projects:
     - Shopping List in Google sheets - https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing
         - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
         - Skills learned: google sheets, JavaScript programming 
                 
-#### Formal Course Work (completed at Princeton University):
+### Formal Course Work (completed at Princeton University):
     - ELE 535: Machine Learning and Pattern Recognition - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, support vector machines, kernels, neural networks and gradient descent.
     - COS 524: Fundamentals of Machine Learning (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
     - MAE 501: Mathematical Methods of Engineering Analysis I - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
     
-#### Online Course Work:
+### Online Course Work:
     - Andrew Ng’s Deep Learning Specialization | Coursera                                                          
         - Credential URL: coursera.org/verify/specialization/GA9QPDNUG6RB
     - Python for Data Science and Machine Learning Bootcamp | Udemy                          
         - Credential URL: ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/
 
-#### More about me (Fun/Miscellaneous):
+### More about me (Fun/Miscellaneous):
     - I am a home cook who loves experimenting with new recipes and flavors from all cuisines (see my own personalized recipes with photos at: )
     - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells. (see some of my favorite photos below) 
     - Playing guitar is a hobby that brings me joy through self-expression and relaxation
