@@ -5,7 +5,7 @@ I am in my final year as an applied physics PhD candidate at Princeton Univerist
 
 This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
 
-Jump to section: [Technical Skills](#technical-skills) | [Data Science Personal Projects](#data-science-personal-projects) | [About Me](#moreaboutme) | | |
+Jump to section: [Technical Skills](#technical-skills) | [Data Science Personal Projects](#data-science-personal-projects) | [Dissertation Research Projects](#dissertation-research-projects) | [More Coding Projetts](#other-coding-projects) | [Relevant Course Work](#relevant-course-work) | [About Me](#more-about-me-funmiscellaneous) | | |
 
 
 
@@ -24,11 +24,12 @@ Jump to section: [Technical Skills](#technical-skills) | [Data Science Personal 
     - Project Description:
     - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
-### Research Projects: (Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
+### Dissertation Research Projects: 
+Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en
 - 3D simulations : 
 -   
 
-### Other coding projects:
+### Other Coding Projects:
 - Shopping List in Google sheets - https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing
     - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
     - Skills learned: google sheets, JavaScript programming 
