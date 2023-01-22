@@ -1,11 +1,9 @@
-### Nicholas Fasano | nmfasano5@gmail.com | [LinkedIn](https://www.linkedin.com/in/nmfasano/) | [Resume]
-
-<a href="https://github.com/nfasano/nfasano/blob/main/Fasano_Resume_Current.pdf" target="_blank">Resume</a>
+### Nicholas Fasano | nmfasano5@gmail.com | [LinkedIn](https://www.linkedin.com/in/nmfasano/) | [Resume](https://github.com/nfasano/nfasano/blob/main/Fasano_Resume_Current.pdf)
 
 ### About me
 I am in my final year as an applied physics PhD candidate at Princeton Univeristy and currently looking for career opportunities as a data scientist. I am passionate abut using large datsets to drive data-informed decisions, a skill I have largely developed over 5+ years by using terbyte-scale datasets to uncover new physical insights into high-power light-matter interactions as well as propose future experimental campaigns. More recently, I have rounded out my data science skillset through a combination of personal data science projects and online courses. 
 
-This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
+This page is dedicated to my datscience portfolio. See my resume and LinkedIn profile linked above for more about my work experience and qualifications.
 
 ### Jump to section: 
 * [Technical Skills](#technical-skills)        
