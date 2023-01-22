@@ -1,6 +1,6 @@
 ### Nicholas Fasano | nmfasano5@gmail.com | [LinkedIn](https://www.linkedin.com/in/nmfasano/) | [Resume](https://www.linkedin.com/in/nmfasano/)
 
-[Go to Real Cool Heading section](#techskills)
+[Go to Real Cool Heading section](#technical-skills)
 
 [About Me](#moreaboutme)
 
@@ -8,7 +8,6 @@ I am in my final year as an applied physics PhD candidate at Princeton Univerist
 
 This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
 
-#TechSkills
 ### Technical Skills 
 - Python (numpy, pandas, matplotlib, scikit-learn), SQL, Matlab, Linux command line, High performance computing, LaTeX, Microsoft Word, Excel, and powerpoint
 
@@ -43,7 +42,6 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
 - Python for Data Science and Machine Learning Bootcamp | Udemy                          
     - Credential URL: ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/
         
-#moreaboutme
 ### More about me (Fun/Miscellaneous):
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines (see my own personalized recipes with photos at: )
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells. (see some of my favorite photos below) 
