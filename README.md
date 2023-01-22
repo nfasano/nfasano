@@ -1,7 +1,7 @@
 ### Nicholas Fasano | nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
 
 [Go to Real Cool Heading section](#techskills)
-
+[Go to Real Cool Heading section](#moreaboutme)
 I am in my final year as an applied physics PhD candidate at Princeton Univeristy and currently looking for career opportunities as a data scientist. I am passionate abut using large datsets to drive data-informed decisions, a skill I have largely developed over 5+ years by using terbyte-scale datasets to uncover new physical insights into high-power light-matter interactions as well as propose future experimental campaigns. More recently, I have rounded out my data science skillset through a combination of personal data science projects and online courses. 
 
 This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
@@ -41,7 +41,7 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
         - Credential URL: coursera.org/verify/specialization/GA9QPDNUG6RB
     - Python for Data Science and Machine Learning Bootcamp | Udemy                          
         - Credential URL: ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/
-
+#MoreAboutMe
 ### More about me (Fun/Miscellaneous):
     - I am a home cook who loves experimenting with new recipes and flavors from all cuisines (see my own personalized recipes with photos at: )
     - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells. (see some of my favorite photos below) 
