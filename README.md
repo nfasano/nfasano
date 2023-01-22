@@ -9,13 +9,13 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
     - Python (numpy, pandas, matplotlib, scikit-learn), SQL, Matlab, Linux command line, High performance computing, LaTeX, Microsoft Word, Excel, and powerpoint
 
 #### Data Science Personal Projects:
-    1) Sentiment Analysis Classifier on black lives matter tweets
+    1) Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
         - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
         - Skills Demonstrated: Sentiment analysis, NLP, Python programming, classification models and evaluating metrics
-    2) Predicting Fragile Family Outcomes
+    2) Predicting Fragile Family Outcomes (See Github Repo for more details: )
         - Project Description:
         - Skills Demonstrated: 
-    3) Movie Recommendation System
+    3) Movie Recommendation System (See Github Repo for more details: )
         - Project Description:
         - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
