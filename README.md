@@ -44,7 +44,7 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
     - Skills learned: google sheets, JavaScript programming 
                 
 ### Relevant Course Work:
-#### Princeton University
+#### Princeton University (Graduate Level Courses)
 - ELE 535: Machine Learning and Pattern Recognition - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, support vector machines, kernels, neural networks and gradient descent.
 - COS 524: Fundamentals of Machine Learning (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
 - MAE 501: Mathematical Methods of Engineering Analysis I - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
