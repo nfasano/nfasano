@@ -17,10 +17,11 @@ Jump to section:
 
 
 ### Technical Skills 
+<pre>
 :white_check_mark: Python (numpy, pandas, matplotlib, scikit-learn)      :white_check_mark: Linux command line                - [x] LaTeX
 - [x] SQL                                                   - [x] High performance computing        - [x] Microsoft Word, Excel, and powerpoint
 - [x] Matlab                                                - [x] High performance computing
-
+<pre>
 ### Data Science Personal Projects:
 1) Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
     - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
