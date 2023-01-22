@@ -13,6 +13,8 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
 * [Relevant Course Work](#relevant-course-work) 
 * [About Me](#more-about-me-funmiscellaneous) 
 
+____________________________________________________________________________________________
+
 ### Technical Skills 
 - [x] Python (numpy, pandas, matplotlib, scikit-learn)      
 - [x] SQL                                                          
@@ -21,6 +23,8 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
 - [x] High performance computing               
 - [x] LaTeX
 - [x] Microsoft Word, Excel, and PowerPoint
+
+____________________________________________________________________________________________
 
 ### Data Science Personal Projects:
 - Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
@@ -33,16 +37,22 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
     - Project Description:
     - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
+_____________________________________________________________________________________________
+
 ### Dissertation Research Projects: 
 [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
 - 3D simulations : 
 -   
 
+_____________________________________________________________________________________________
+
 ### Other Coding Projects:
 - Shopping List in Google sheets - https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing
     - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
     - Skills learned: google sheets, JavaScript programming 
-                
+
+_____________________________________________________________________________________________
+
 ### Relevant Course Work:
 #### Princeton University (Graduate Level Courses)
 - ELE 535: Machine Learning and Pattern Recognition - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, support vector machines, kernels, neural networks and gradient descent.
@@ -51,7 +61,9 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
 #### Online Course Work:
 - Andrew Ng’s Deep Learning Specialization | Coursera | [Credential URL](https://www.coursera.org/verify/specialization/GA9QPDNUG6RB)
 - Python for Data Science and Machine Learning Bootcamp | Udemy | [Credential URL](https://www.ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/)
-        
+
+_____________________________________________________________________________________________
+
 ### More about me (Fun/Miscellaneous):
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells
