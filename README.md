@@ -23,13 +23,13 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
 - [x] Microsoft Word, Excel, and PowerPoint
 
 ### Data Science Personal Projects:
-1) Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
+- Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
     - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
     - Skills Demonstrated: Sentiment analysis, NLP, Python programming, classification models and evaluating metrics
-2) Predicting Fragile Family Outcomes (See Github Repo for more details: )
+- Predicting Fragile Family Outcomes (See Github Repo for more details: )
     - Project Description:
     - Skills Demonstrated: 
-3) Movie Recommendation System (See Github Repo for more details: )
+- Movie Recommendation System (See Github Repo for more details: )
     - Project Description:
     - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
