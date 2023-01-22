@@ -33,7 +33,7 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
     - COS 524: Fundamentals of Machine Learning (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
     - MAE 501: Mathematical Methods of Engineering Analysis I - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
 
-#### Fun/Miscellaneous:
+#### More about me (Fun/Miscellaneous):
     - I enjoy the art of home cooking (see my curated cookbook (with photos) at )
     - I like photography (see some of my favorite pictures at ) 
     - I have played guitar on and off for the last 5 years
