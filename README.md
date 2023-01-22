@@ -5,7 +5,7 @@ I am in my final year as an applied physics PhD candidate at Princeton Univerist
 
 This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
 
-Jump to section: 
+### Jump to section: 
 * [Technical Skills](#technical-skills)        
 * [Data Science Personal Projects](#data-science-personal-projects) 
 * [Dissertation Research Projects](#dissertation-research-projects) 
@@ -13,15 +13,15 @@ Jump to section:
 * [Relevant Course Work](#relevant-course-work) 
 * [About Me](#more-about-me-funmiscellaneous) 
 
-
-
-
 ### Technical Skills 
-<pre>
-:white_check_mark: Python (numpy, pandas, matplotlib, scikit-learn)      :white_check_mark: Linux command line                - [x] LaTeX
-- [x] SQL                                                   - [x] High performance computing        - [x] Microsoft Word, Excel, and powerpoint
-- [x] Matlab                                                - [x] High performance computing
-<pre>
+- [x] Python (numpy, pandas, matplotlib, scikit-learn)      
+- [x] SQL                                                          
+- [x] Matlab                                       
+- [x] Linux command line  
+- [x] High performance computing               
+- [x] LaTeX
+- [x] Microsoft Word, Excel, and PowerPoint
+
 ### Data Science Personal Projects:
 1) Sentiment Analysis Classifier on black lives matter tweets (See Github Repo for more details: )
     - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
