@@ -25,7 +25,7 @@ Jump to section: [Technical Skills](#technical-skills) | [Data Science Personal 
     - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
 ### Dissertation Research Projects: 
-Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en
+[Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
 - 3D simulations : 
 -   
 
@@ -40,10 +40,8 @@ Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&h
 - COS 524: Fundamentals of Machine Learning (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
 - MAE 501: Mathematical Methods of Engineering Analysis I - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
 #### Online Course Work:
-- Andrew Ng’s Deep Learning Specialization | Coursera                                                          
-    - Credential URL: coursera.org/verify/specialization/GA9QPDNUG6RB
-- Python for Data Science and Machine Learning Bootcamp | Udemy                          
-    - Credential URL: ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/
+- Andrew Ng’s Deep Learning Specialization | Coursera | [Credential URL](coursera.org/verify/specialization/GA9QPDNUG6RB)
+- Python for Data Science and Machine Learning Bootcamp | Udemy | [Credential URL](ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/)
         
 ### More about me (Fun/Miscellaneous):
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines (see my own personalized recipes with photos at: )
