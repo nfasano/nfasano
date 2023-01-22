@@ -57,8 +57,9 @@ This page is dedicated to my datscience portfolio. See my resume and LinkedIn pr
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells. (see some of my favorite photos below) 
 - Playing guitar is a hobby that brings me joy through self-expression and relaxation
 
+<p align="center">
 <img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1023_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1069_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="300"/> 
-
+</p>
 
 
 
