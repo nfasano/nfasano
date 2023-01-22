@@ -10,26 +10,33 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
 Technical Skills: Python (numpy, pandas, matplotlib, scikit-learn), SQL, Matlab, Linux command line, High performance computing, LaTeX, Microsoft Word, Excel, and powerpoint
 
 
-1) Formal Course Work (completed at Princeton University):
+### Formal Course Work (completed at Princeton University):
     - ELE 535: Machine Learning and Pattern Recognition - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, support vector machines, kernels, neural networks and gradient descent.
     - COS 524: Fundamentals of Machine Learning (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
     - MAE 501: Mathematical Methods of Engineering Analysis I - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
 
 
-3) Data Science Personal Projects:
-    - Sentiment Analysis Classifier on black lives matter tweets
-        - Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University
+### Data Science Personal Projects:
+    1) Sentiment Analysis Classifier on black lives matter tweets
+        - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
+        - Skills Demonstrated: Sentiment analysis, NLP, Python programming, classification models and evaluating metrics
+    2) Predicting Fragile Family Outcomes
+        - Project Description:
+        - Skills Demonstrated: 
+    3) Movie Recommendation System
+        - Project Description:
+        - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
-2) Research Projects: (Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
+### Research Projects: (Google scholar profile: https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
     - 3D simulations : 
     -   
 
-3) Other coding projects:
+### Other coding projects:
     - Shopping List in Google sheets - https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing
         - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
         - Skills learned: google sheets, JavaScript programming 
 
-4) Fun/Miscellaneous:
+### Fun/Miscellaneous:
     - I enjoy the art of home cooking (see my curated cookbook (with photos) at )
     - I like photography (see some of my favorite pictures at ) 
     - I have played guitar on and off for the last 5 years
