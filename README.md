@@ -43,7 +43,7 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
     - Python for Data Science and Machine Learning Bootcamp | Udemy                          
         - Credential URL: ude.my/UC-457a4c2d-3129-4238-b3b9-c476db07faad/
         
-#MoreAboutMe
+#moreaboutme
 ### More about me (Fun/Miscellaneous):
     - I am a home cook who loves experimenting with new recipes and flavors from all cuisines (see my own personalized recipes with photos at: )
     - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells. (see some of my favorite photos below) 
