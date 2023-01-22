@@ -1,4 +1,4 @@
-### Nicholas Fasano | nmfasano5@gmail.com | LinkedIn: https://www.linkedin.com/in/nmfasano/
+### Nicholas Fasano | nmfasano5@gmail.com | [LinkedIN](https://www.linkedin.com/in/nmfasano/) | [Resume](https://www.linkedin.com/in/nmfasano/)
 
 [Go to Real Cool Heading section](#techskills)
 [Go to Real Cool Heading section](#moreaboutme)
