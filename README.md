@@ -1,12 +1,14 @@
 ### Nicholas Fasano | nmfasano5@gmail.com | [LinkedIn](https://www.linkedin.com/in/nmfasano/) | [Resume](https://www.linkedin.com/in/nmfasano/)
 
-[Go to Real Cool Heading section](#technical-skills)
-
-[About Me](#moreaboutme)
-
+### About me
 I am in my final year as an applied physics PhD candidate at Princeton Univeristy and currently looking for career opportunities as a data scientist. I am passionate abut using large datsets to drive data-informed decisions, a skill I have largely developed over 5+ years by using terbyte-scale datasets to uncover new physical insights into high-power light-matter interactions as well as propose future experimental campaigns. More recently, I have rounded out my data science skillset through a combination of personal data science projects and online courses. 
 
 This page is dedicated to my datscience portfolio. You can find my full resume and accomplishments on my resume () or linkedIn profile ().
+
+Jump to section: [Technical Skills](#technical-skills) | [Data Science Personal Projects](#data-science-personal-projects) | [About Me](#moreaboutme) | | |
+
+
+
 
 ### Technical Skills 
 - Python (numpy, pandas, matplotlib, scikit-learn), SQL, Matlab, Linux command line, High performance computing, LaTeX, Microsoft Word, Excel, and powerpoint
@@ -31,12 +33,12 @@ This page is dedicated to my datscience portfolio. You can find my full resume a
     - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
     - Skills learned: google sheets, JavaScript programming 
                 
-### Formal Course Work (completed at Princeton University):
+### Relevant Course Work:
+#### Princeton University
 - ELE 535: Machine Learning and Pattern Recognition - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, support vector machines, kernels, neural networks and gradient descent.
 - COS 524: Fundamentals of Machine Learning (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
 - MAE 501: Mathematical Methods of Engineering Analysis I - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
-    
-### Online Course Work:
+#### Online Course Work:
 - Andrew Ng’s Deep Learning Specialization | Coursera                                                          
     - Credential URL: coursera.org/verify/specialization/GA9QPDNUG6RB
 - Python for Data Science and Machine Learning Bootcamp | Udemy                          
