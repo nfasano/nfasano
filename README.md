@@ -20,7 +20,7 @@ ________________________________________________________________________________
 * [Dissertation Research Projects](#dissertation-research-projects) 
 * [More Coding Projetts](#other-coding-projects) 
 * [Relevant Course Work](#relevant-course-work) 
-* [About Me](#more-about-me-funmiscellaneous) 
+* [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
 
 ____________________________________________________________________________________________
 
