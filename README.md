@@ -63,9 +63,9 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 
 ### Relevant Course Work:
-#### Princeton University (Graduate Level Courses)
-- **ELE 535: Machine Learning and Pattern Recognition** - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, support vector machines, kernels, neural networks and gradient descent.
-- **COS 524: Fundamentals of Machine Learning** (audited - no credit given, but see completed projects below) - This course focuses on some of the most useful approaches to the problem of analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covers classification, regression, clustering, dimension reduction, and time series models.
+#### Princeton University (Graduate Level Courses):
+- **ELE 535: Machine Learning and Pattern Recognition** - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, SVD, PCA, support vector machines, kernels, neural networks and gradient descent.
+- **COS 524: Fundamentals of Machine Learning** (audited - no credit given, but see completed projects above) - This course focused on useful approaches to analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covered classification, regression, clustering, dimension reduction (PCA, SVD, NNMF, LDA) and time series models.
 - **MAE 501: Mathematical Methods of Engineering Analysis I** - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
 #### Online Course Work:
 - **Andrew Ng’s Deep Learning Specialization** | Coursera | [Credential URL](https://www.coursera.org/verify/specialization/GA9QPDNUG6RB)
@@ -77,7 +77,10 @@ ________________________________________________________________________________
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells
 - Playing guitar is a hobby that brings me joy through self-expression and relaxation
+<!-- - Fun Fact: I received my BS degree in Aerospace Engineering without ever traveling on an airplane
+ - Fun Fact: I was born encaucus
 
+-->
 <p align="center">
 <img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1023_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1069_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="300"/> 
 </p>
