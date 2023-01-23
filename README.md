@@ -82,8 +82,26 @@ ________________________________________________________________________________
 
 -->
 <p align="center">
-<img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1023_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1069_4x6Print.jpg" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="300"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="300"/> 
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="300"/> 
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="300"/>
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1023_4x6Print.jpg" alt="drawing" width="300"/> 
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1069_4x6Print.jpg" alt="drawing" width="300"/> 
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="300"/> 
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="300"/> 
+</picture>
 </p>
+
 
 
 
