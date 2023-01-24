@@ -95,7 +95,7 @@ ________________________________________________________________________________
 <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1157_Cropped.jpg" alt="drawing" width="300"/> 
 </picture>
 <picture>
-<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1069_4x6Print.jpg" alt="drawing" width="300"/> 
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0411_TouchUp.jpg" alt="drawing" width="300"/> 
 </picture>
 <picture>
 <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="300"/> 
