@@ -100,6 +100,15 @@ ________________________________________________________________________________
 <picture>
 <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="300"/> 
 </picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3527_2f.jpg" alt="drawing" width="300"/> 
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3533_2.jpg" alt="drawing" width="300"/> 
+</picture>
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/Ramen_22.jpg" alt="drawing" width="300"/> 
+</picture>
 </p>
 
 
