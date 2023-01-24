@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________
 
 ### About me
-I am in my final year as an applied physics PhD candidate at Princeton Univeristy and currently looking for career opportunities as a data scientist. I am passionate abut using large datsets to drive data-informed decisions, a skill I have largely developed over 5+ years by using terbyte-scale datasets to uncover new physical insights into high-power light-matter interactions as well as propose future experimental campaigns. More recently, I have rounded out my data science skillset through a combination of personal data science projects and online courses. 
+I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May and seeking new career opportunities as a data scientist. I am excited by the challenge of uncovering insights from vast amounts of data, a skill I have developed in the last 5+ years by curating and analyzing terabyte-scale datasets pertaining to high-power light-matter interactions. More recently, I have rounded out my data science skillset through personal projects and formal course work. 
 
 This page is dedicated to my datscience portfolio. See my resume and LinkedIn profile linked above for more about my work experience and qualifications.
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 ### Technical Skills 
 - [x] Python (numpy, pandas, matplotlib, scikit-learn)      
-- [x] SQL                                                          
+- [x] SQL                                                        
 - [x] Matlab                                       
 - [x] Linux command line  
 - [x] High performance computing               
@@ -77,8 +77,6 @@ ________________________________________________________________________________
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells
 - Playing guitar is a hobby that brings me joy through self-expression and relaxation
-<!-- - Fun Fact: I received my BS degree in Aerospace Engineering without ever traveling on an airplane
- - Fun Fact: I was born encaucus
 
 -->
 <p align="center">
