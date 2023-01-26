@@ -9,31 +9,44 @@ ________________________________________________________________________________
 
 ### About me
 I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May and actively seeking new career opportunities as a data scientist. I am excited by the challenge of uncovering insights from vast amounts of data, a skill I have developed in the last 5+ years by curating and analyzing terabyte-scale datasets pertaining to high-power light-matter interactions. More recently, I have rounded out my data science skillset through personal projects and formal course work. 
-
-This page is dedicated to my datscience portfolio. See my resume and LinkedIn profile linked above for more about my work experience and qualifications.
-
 ____________________________________________________________________________________________
 
 ### Jump to section: 
-* [Technical Skills](#technical-skills)        
+* [Technical Skills](#technical-skills)      
+* [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Personal Projects](#data-science-personal-projects) 
-* [Dissertation Research Projects](#dissertation-research-projects) 
-* [More Coding Projetts](#other-coding-projects) 
+* [Other Coding Projetts](#other-coding-projects) 
 * [Relevant Course Work](#relevant-course-work) 
 * [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
 
 ____________________________________________________________________________________________
 
 ### Technical Skills 
-- [x] Python (numpy, pandas, matplotlib, scikit-learn)      
-- [x] SQL                                                        
+- [x] Python (numpy, pandas, scikit-learn, matplotlib)      
+- [x] SQL    
+- [x] Statistical methods and machine learning models
+    - [x] Regression (Linear, Multi-linear, Lasso/Ridge, Polynomial, Logistic)
+    - [x] Classification (SVM, random forest/decision trees, KNN)
+    - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)                                 
+- [x] A/B Testing (Hypothesis Testing) 
+    - [x] T-testing
+    - [x] ANOVA     
+- [x] Data cleaning and preprocessing            
 - [x] Matlab                                       
-- [x] Linux command line  
+- [x] Linux shell scripting  
 - [x] High performance computing               
 - [x] LaTeX
 - [x] Microsoft Word, Excel, and PowerPoint
 
+
 ____________________________________________________________________________________________
+
+### Dissertation Research Projects: 
+[Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
+- 3D simulations : 
+-   
+
+_____________________________________________________________________________________________
 
 ### Data Science Personal Projects:
 - **Sentiment Analysis Classifier on black lives matter tweets** (Github Repo)
@@ -48,18 +61,14 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-### Dissertation Research Projects: 
-[Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
-- 3D simulations : 
--   
-
-_____________________________________________________________________________________________
-
 ### Other Coding Projects:
 - **Shopping List in Google sheets** - [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
     - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
     - Skills learned: google sheets, JavaScript programming 
 
+- **Bash script for ** - (Github Repo)
+    - Description: Wrote a bash script which  
+    - Skills learned: Linux shell scripting, High performance computing 
 _____________________________________________________________________________________________
 
 ### Relevant Course Work:
@@ -78,6 +87,7 @@ ________________________________________________________________________________
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells
 - Playing guitar is a hobby that brings me joy through self-expression and relaxation
 
+<!-- - ⚡ Fun fact about me: I made a grand entrance into the world by being born "en caul", a condition where a baby is delivered inside a fully intact amniotic sac. According to some cultures, this is considered a sign of good luck and it's also believed that babies born en caul are incapable of drowning. So, let's just say I'm a lucky and unsinkable little bundle of joy!"
 -->
 <p align="center">
 <picture>
@@ -111,14 +121,6 @@ ________________________________________________________________________________
 
 
 
-
-
-
-
-
-
-
-
 <!--
 **nfasano/nfasano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -131,5 +133,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
