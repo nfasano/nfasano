@@ -68,7 +68,7 @@ ________________________________________________________________________________
     - Skills learned: google sheets, JavaScript programming 
 
 - **Bash script for ** - (Github Repo)
-    - Description: Wrote a bash script which  
+    - Description: Wrote a bash script which . In addition to providing an organized framework for managing terabyte-scale datasets, this script provides built-in checks which avoids user error which often results in huge wastes in computational resources.
     - Skills learned: Linux shell scripting, High performance computing 
 _____________________________________________________________________________________________
 
@@ -86,7 +86,6 @@ ________________________________________________________________________________
 ### More about me (Fun/Miscellaneous):
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells
-- Playing guitar is a hobby that brings me joy through self-expression and relaxation
 
 <!-- - ⚡ Fun fact about me: I made a grand entrance into the world by being born "en caul", a condition where a baby is delivered inside a fully intact amniotic sac. According to some cultures, this is considered a sign of good luck and it's also believed that babies born en caul are incapable of drowning. So, let's just say I'm a lucky and unsinkable little bundle of joy!"
 -->
