@@ -57,7 +57,7 @@ ________________________________________________________________________________
 - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated: 
-- **Movie Recommendation System** (Github Repo)
+- **Movie Recommendation System -- (In progress)** (Github Repo)
     - Project Description:
     - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
 
