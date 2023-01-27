@@ -28,7 +28,8 @@ ________________________________________________________________________________
 - [x] Statistical methods and machine learning models
     - [x] Regression (Linear, Multi-linear, Lasso/Ridge, Polynomial, Logistic)
     - [x] Classification (SVM, random forest/decision trees, KNN)
-    - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)                                 
+    - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)     
+    - [x] Time series analysis                             
 - [x] A/B Testing (Hypothesis Testing) 
     - [x] T-testing
     - [x] ANOVA     
