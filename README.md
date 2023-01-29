@@ -45,11 +45,14 @@ ________________________________________________________________________________
 
 ### Dissertation Research Projects: 
 [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
-My dissertation work combined data from experiments and simulations of plasma mirrors driven by intense lasers with tailored temporal waveforms and controlled polarization states, focusing on the emission of harmonic orders of the laser's fundamental wavelength.
-Novel Contributions:
-- The first experimental demonstration of enhanced harmonic generation with a two-color laser compared to a single color implemented using a multi-pass plasma mirror configuration (left panel).
-- Simulations show that a circularly polarized laser normally incident on an ultrathin plasma target yields vortex harmonics in the reflected and transmitted direction  (central panel).
-- Simulations show that plasma mirrors driven by single-color elliptically polarized lasers emit circularly polarized harmonics that either co-rotate or counter-rotate with the reflected fundamental, depending on if the driving laser is circularly polarized or nearly s-polarized, respectively (right panel).
+
+My dissertation projects combine data from experiments and simulations of plasma mirrors driven by intense lasers with tailored temporal waveforms and controlled polarization states, focusing on the emission of harmonic orders of the laser's fundamental wavelength.
+
+Main Thesis Contributions:
+- Led an experimental campaign on Princeton's 20TW laser system and provided the first experimental demonstration of using a multi-pass plasma mirror configuration to achieve enhanced harmonic energy from the interaction of a two-color laser compared to one with a one-color (left panel).
+- Curated, formally analyzed, and visualized terabyte-scale simulation data pertaining to plasma mirrors driven by elliptically polarized lasers, showing that plasma mirrors are an ideal medium for synthesizing ultraviolet and extreme ultraviolet radiation with an arbitrary polarization state and spatial structure (center panel).
+- Collaborated with scientist and engineers from other academic institutions (CUOS group at University of Michigan) and national laboratories (Lawrence Livermore National Laboratory), where I assisted in the set-up and execution of experiments (right panel).
+
 <p align="center">
 <picture>
 <img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_jpg.jpg" alt="drawing" width="900"/> 
@@ -61,7 +64,7 @@ ________________________________________________________________________________
 ### Data Science Personal Projects:
 - **Sentiment Analysis Classifier on black lives matter tweets** (Github Repo)
     - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
-    - Skills Demonstrated: Sentiment analysis, NLP, Python programming, classification models and evaluating metrics
+    - Skills Demonstrated: Python, sentiment analysis, NLP, classification models and evaluation metrics, imbalanced datasets
 - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated: 
@@ -72,13 +75,17 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 
 ### Other Coding Projects:
+- **Bash script for executing code through the Slurm scheduler ** - (Github Repo)
+    - Description: Wrote a bash script which can submit batches of simulations through the Slurm scheduler (a commonly used cluster management and job scheduling system for Linux clusters), where each simulation can have different parameters and computational resources. In addition to providing an organized framework for managing massively parallel simulations and terabyte-scale datasets, this script provides built-in checks to avoid user error which can result in a huge waste of computational resources. The script has been modified by successive graduate students in the group who use the computing cluster in a myriad of ways.
+    - Skills learned: Linux shell scripting, High performance computing 
+
 - **Shopping List in Google sheets** - [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
     - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
     - Skills learned: google sheets, JavaScript programming 
 
-- **Bash script for ** - (Github Repo)
-    - Description: Wrote a bash script which . In addition to providing an organized framework for managing terabyte-scale datasets, this script provides built-in checks which avoids user error which often results in huge wastes in computational resources.
-    - Skills learned: Linux shell scripting, High performance computing 
+<!-- - **Ray tracing renderer ** - (Github Repo)
+    - Description: Following the "Ray Tracing in One Weekend" series by Peter Shirley, I implemented a functioning ray tracing algorithm capable of rendering spheres, boxes, triangles with the option for different textures.
+    - Skills learned: C++, object oriented programming -->
 _____________________________________________________________________________________________
 
 ### Relevant Course Work:
