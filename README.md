@@ -52,7 +52,7 @@ Novel Contributions:
 - Simulations show that plasma mirrors driven by single-color elliptically polarized lasers emit circularly polarized harmonics that either co-rotate or counter-rotate with the reflected fundamental, depending on if the driving laser is circularly polarized or nearly s-polarized, respectively (right panel).
 <p align="center">
 <picture>
-<img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_jpg.jpg" alt="drawing" width="700"/> 
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_jpg.jpg" alt="drawing" width="900"/> 
 </picture>
 </p>
 
