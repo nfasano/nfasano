@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________
 
 ### About me
-I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May and actively seeking new career opportunities as a data scientist. I am excited by the challenge of uncovering insights from vast amounts of data, a skill I have developed in the last 5+ years by curating and analyzing terabyte-scale datasets pertaining to high-power light-matter interactions. More recently, I have rounded out my data science skillset through personal projects and formal course work. I am excited to bring my experience to a mission-driven company, where I can apply my technical skills to drive meaningful change.
+I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May and actively seeking new career opportunities as a data scientist or quantitative researcher. I am excited by the challenge of uncovering insights from vast amounts of data, a skill I have developed in the last 5+ years by curating and analyzing terabyte-scale datasets pertaining to high-power light-matter interactions. More recently, I have rounded out my skillset through personal projects and formal course work. I am excited to bring my experience to a mission-driven company, where I can apply my technical skills to realize meaningful change.
 
 ____________________________________________________________________________________________
 
@@ -45,8 +45,16 @@ ________________________________________________________________________________
 
 ### Dissertation Research Projects: 
 [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
-- 3D simulations : 
--   
+My dissertation work combined data from experiments and simulations of plasma mirrors driven by intense lasers with tailored temporal waveforms and controlled polarization states, focusing on the emission of harmonic orders of the laser's fundamental wavelength.
+Novel Contributions:
+- The first experimental demonstration of enhanced harmonic generation with a two-color laser compared to a single color implemented using a multi-pass plasma mirror configuration (left panel).
+- Simulations show that a circularly polarized laser normally incident on an ultrathin plasma target yields vortex harmonics in the reflected and transmitted direction  (central panel).
+- Simulations show that plasma mirrors driven by single-color elliptically polarized lasers emit circularly polarized harmonics that either co-rotate or counter-rotate with the reflected fundamental, depending on if the driving laser is circularly polarized or nearly s-polarized, respectively (right panel).
+<p align="center">
+<picture>
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_jpg.jpg" alt="drawing" width="700"/> 
+</picture>
+</p>
 
 _____________________________________________________________________________________________
 
