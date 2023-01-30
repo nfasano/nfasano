@@ -49,9 +49,9 @@ ________________________________________________________________________________
 My dissertation projects combine data from experiments and simulations of plasma mirrors driven by intense lasers with tailored temporal waveforms and controlled polarization states, focusing on the emission of harmonic orders of the laser's fundamental wavelength.
 
 Main Thesis Contributions:
-- Led an experimental campaign on Princeton's 20TW laser system and provided the first experimental demonstration of using a multi-pass plasma mirror configuration to achieve enhanced harmonic energy from the interaction of a two-color laser compared to one with a one-color (left panel).
-- Curated, formally analyzed, and visualized terabyte-scale simulation data pertaining to plasma mirrors driven by elliptically polarized lasers, showing that plasma mirrors are an ideal medium for synthesizing ultraviolet and extreme ultraviolet radiation with an arbitrary polarization state and spatial structure (center panel).
-- Collaborated with scientist and engineers from other academic institutions (CUOS group at University of Michigan) and national laboratories (Lawrence Livermore National Laboratory), where I assisted in the set-up and execution of experiments (right panel).
+- Led an experimental campaign on Princeton's 20TW laser system and provided the first demonstration of using a multi-pass plasma mirror configuration to achieve enhanced harmonic energy from the interaction of a two-color laser compared to an interaction with a one-color laser.
+- Curated and formally analyzed terabyte-scale simulation data about plasma mirrors driven by elliptically polarized lasers, showing that plasma mirrors are an ideal medium for synthesizing extreme ultraviolet radiation with a controlled polarization state and higher-ordered spatial modes.
+- Collaborated with scientists and engineers from the University of Michigan and Lawrence Livermore National Laboratory, where I assisted in the set-up and execution of experiments.
 
 <p align="center">
 <picture>
