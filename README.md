@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________
 
 ### About me
-I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May and actively seeking new career opportunities as a data scientist or quantitative researcher. I am excited by the challenge of uncovering insights from vast amounts of data, a skill I have developed in the last 5+ years by curating and analyzing terabyte-scale datasets pertaining to high-power light-matter interactions. More recently, I have rounded out my skillset through personal projects and formal course work. I am excited to bring my experience to a mission-driven company, where I can apply my technical skills to realize meaningful change.
+I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May, and actively seeking new career opportunities in data science or quantitative research. I am excited by the prospect of uncovering new insights from vast amounts of data, a skill I developed in the last 5+ years by curating and analyzing terabyte-scale datasets about light-matter interactions. I am ready to bring my experience to a mission-driven company where I can apply my technical skills to solve challenging problems.
 
 ____________________________________________________________________________________________
 
