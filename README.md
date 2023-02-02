@@ -55,7 +55,7 @@ Main Thesis Contributions:
 
 <p align="center">
 <picture>
-<img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_V2_jpg.jpg" alt="drawing" width="900"/> 
+<img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_V2.jpg" alt="drawing" width="900"/> 
 </picture>
 </p>
 
