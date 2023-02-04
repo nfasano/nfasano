@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________
 
 ### About me
-I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May, and actively seeking new career opportunities in data science or quantitative research. I am excited by the prospect of uncovering new insights from vast amounts of data, a skill I developed in the last 5+ years by curating and analyzing terabyte-scale datasets about light-matter interactions. I am ready to bring my experience to a mission-driven company where I can apply my technical skills to solve challenging problems.
+I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May, and actively seeking new career opportunities in data science or quantitative research. I am excited by the prospect of uncovering new insights from vast amounts of data, a skill I developed in the last 5+ years by curating and analyzing massive datasets about light-matter interactions. I am ready to bring my extensive research experience to a mission-driven company where I can apply my technical skills to solve challenging problems.
 
 ____________________________________________________________________________________________
 
@@ -46,12 +46,12 @@ ________________________________________________________________________________
 ### Dissertation Research Projects: 
 [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
 
-My dissertation projects combine data from experiments and simulations of plasma mirrors driven by intense lasers with tailored temporal waveforms and controlled polarization states, focusing on the emission of harmonic orders of the laser's fundamental wavelength.
+My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. 
 
 Main Thesis Contributions:
-- Led an experimental campaign on Princeton's 20TW laser system and provided the first demonstration of using a multi-pass plasma mirror configuration to achieve enhanced harmonic energy from the interaction of a two-color laser compared to an interaction with a one-color laser.
-- Curated and formally analyzed terabyte-scale simulation data about plasma mirrors driven by elliptically polarized lasers, showing that plasma mirrors are an ideal medium for synthesizing extreme ultraviolet radiation with a controlled polarization state and higher-ordered spatial modes.
-- Collaborated with scientists and engineers from the University of Michigan and Lawrence Livermore National Laboratory, where I assisted in the set-up and execution of experiments.
+- Led an experimental campaign on Princeton's 20TW laser system, which demonstrated waveform-controlled harmonic generation using a novel experimental technique (a multi-pass plasma mirror configuration), resulting in two conference presentations and a written manuscript
+- Curated and analyzed terabyte-scale simulation data to show that plasma mirrors are a practical choice for synthesizing and controlling the fundamental properties of intense light sources
+- Collaborated with research teams from Lawrence Livermore National Laboratory (LLNL) and the University of Michigan (CUOS group), where I co-designed and executed experiments
 
 <p align="center">
 <picture>
@@ -76,11 +76,11 @@ ________________________________________________________________________________
 
 ### Other Coding Projects:
 - **Bash script for executing code through the Slurm scheduler ** - (Github Repo)
-    - Description: Wrote a bash script which can submit batches of simulations through the Slurm scheduler (a commonly used cluster management and job scheduling system for Linux clusters), where each simulation can have different parameters and computational resources. In addition to providing an organized framework for managing massively parallel simulations and terabyte-scale datasets, this script provides built-in checks to avoid user error which can result in a huge waste of computational resources. The script has been modified by successive graduate students in the group who use the computing cluster in a myriad of ways.
+    - Description: Wrote a bash script that submits batches of simulations through the Slurm scheduler (a commonly used cluster management and job scheduling system for Linux clusters), where each simulation can have different parameters and requested computational resources. This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the computing cluster in a myriad of ways.
     - Skills learned: Linux shell scripting, High performance computing 
 
 - **Shopping List in Google sheets** - [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
-    - Description: Created a shopping list which automatically arranges selected items in the order that I walk the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked, all, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
+    - Description: Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
     - Skills learned: google sheets, JavaScript programming 
 
 <!-- - **Ray tracing renderer ** - (Github Repo)
