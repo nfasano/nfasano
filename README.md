@@ -62,7 +62,7 @@ Main Thesis Contributions:
 _____________________________________________________________________________________________
 
 ### Data Science Personal Projects:
-- **Sentiment Analysis Classifier on black lives matter tweets** [Github Repo](https://github.com/nfasano/bashScriptsHPC)
+- **Sentiment Analysis Classifier on black lives matter tweets** (Github Repo)
     - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
     - Skills Demonstrated: Python, sentiment analysis, NLP, classification models and evaluation metrics, imbalanced datasets
 - **Predicting Fragile Family Outcomes** (Github Repo)
@@ -75,7 +75,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 
 ### Other Coding Projects:
-- **Bash script for executing code through the Slurm scheduler** - (Github Repo)
+- **Bash script for executing code through the Slurm scheduler** - [Github Repo](https://github.com/nfasano/bashScriptsHPC)
     - Description: Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
     - Skills learned: Linux shell scripting, High performance computing 
 
