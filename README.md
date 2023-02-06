@@ -62,7 +62,7 @@ Main Thesis Contributions:
 _____________________________________________________________________________________________
 
 ### Data Science Personal Projects:
-- **Sentiment Analysis Classifier on black lives matter tweets** (Github Repo)
+- **Sentiment Analysis Classifier on black lives matter tweets** [Github Repo](https://github.com/nfasano/bashScriptsHPC)
     - Project Description: Given a dataset of xx tweets, some of which I labelled, I built a sentiment analysis classifier to determine wheter a given tweet was . This work was completed as a course project for COS xxx at Princeton University.
     - Skills Demonstrated: Python, sentiment analysis, NLP, classification models and evaluation metrics, imbalanced datasets
 - **Predicting Fragile Family Outcomes** (Github Repo)
