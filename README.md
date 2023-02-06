@@ -16,7 +16,7 @@ ________________________________________________________________________________
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Personal Projects](#data-science-personal-projects) 
-* [Other Coding Projetts](#other-coding-projects) 
+* [Other Coding Projects](#other-coding-projects) 
 * [Relevant Course Work](#relevant-course-work) 
 * [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
 
