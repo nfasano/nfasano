@@ -76,7 +76,7 @@ ________________________________________________________________________________
 
 ### Other Coding Projects:
 - **Bash script for executing code through the Slurm scheduler** - (Github Repo)
-    - Description: Wrote a bash script that submits batches of simulations with different parameters and requested computational resources through the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
+    - Description: Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
     - Skills learned: Linux shell scripting, High performance computing 
 
 - **Shopping List in Google sheets** - [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
