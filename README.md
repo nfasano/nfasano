@@ -46,7 +46,7 @@ ________________________________________________________________________________
 ### Dissertation Research Projects: 
 [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
 
-My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. 
+My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Devolping these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
 
 Main Thesis Contributions:
 - Led an experimental campaign on Princeton's 20TW laser system, which demonstrated waveform-controlled harmonic generation using a novel experimental technique (a multi-pass plasma mirror configuration), resulting in two conference presentations and a written manuscript
@@ -63,8 +63,9 @@ ________________________________________________________________________________
 
 ### Data Science Personal Projects:
 - **Sentiment Analysis Classifier on black lives matter tweets** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
-    - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine wheter a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that... This work was completed as a course project for COS 524 at Princeton University.
-    - Skills Demonstrated: Python, sentiment analysis, NLP, classification models and evaluation metrics, imbalanced datasets
+    - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine wheter a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
+    - Project Outcome: It was found that... 
+    - Skills Demonstrated: Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
 - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated: 
