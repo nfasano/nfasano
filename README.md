@@ -28,11 +28,8 @@ ________________________________________________________________________________
 - [x] Statistical methods and machine learning models
     - [x] Regression (Linear, Multi-linear, Lasso/Ridge, Polynomial, Logistic)
     - [x] Classification (SVM, random forest/decision trees, KNN)
-    - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)     
-    - [x] Time series analysis                             
+    - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)                               
 - [x] A/B Testing (Hypothesis Testing) 
-    - [x] T-testing
-    - [x] ANOVA     
 - [x] Data cleaning and preprocessing            
 - [x] Matlab                                       
 - [x] Linux shell scripting  
@@ -40,7 +37,8 @@ ________________________________________________________________________________
 - [x] LaTeX
 - [x] Microsoft Word, Excel, and PowerPoint
 
-
+<!--     - T-test, Anova
+    - [x] Time series analysis    -->
 ____________________________________________________________________________________________
 
 ### Dissertation Research Projects: 
@@ -62,37 +60,40 @@ Main Thesis Contributions:
 _____________________________________________________________________________________________
 
 ### Data Science Personal Projects:
-- **Sentiment Analysis Classifier on black lives matter tweets** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
+- **Sentiment classifier on black lives matter tweets** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
     - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine wheter a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
     - Project Outcome: It was found that... 
     - Skills Demonstrated: Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
-- **Predicting Fragile Family Outcomes** (Github Repo)
+<!-- - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
-    - Skills Demonstrated: 
-- **Movie Recommendation System -- (In progress)** (Github Repo)
-    - Project Description:
-    - Skills Demonstrated: Webscraping (beautifulSoup, selenium), NLP, Latent Dirichlet Allocation,  
+    - Skills Demonstrated:  -->
+- **Movie Recommendation System -- (In progress) --** [Github Repo](https://github.com/nfasano/movieScripts) 
+    - Project Description: Given a set of 160,000+ movie/show scripts, titles, generes, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
+    - Project Outcomes: 
+        - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
+        - Combined movie script data with dataset available from IMDb.com containing pertinent movie/show information (e.g. ratings, cast/crew, genre, etc.)
+    - Skills Demonstrated: Webscraping (beautifulSoup, selenium), SQL, NLP, Latent Dirichlet Allocation,  
 
 _____________________________________________________________________________________________
 
 ### Other Coding Projects:
 - **Bash script for executing code through the Slurm scheduler** - [Github Repo](https://github.com/nfasano/bashScriptsHPC)
     - Description: Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
-    - Skills learned: Linux shell scripting, High performance computing 
+    - Skills demonstrated: Linux shell scripting, High performance computing 
 
 - **Shopping List in Google sheets** - [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
     - Description: Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
-    - Skills learned: google sheets, JavaScript programming 
+    - Skills demonstrated: google sheets, JavaScript programming 
 
 <!-- - **Ray tracing renderer ** - (Github Repo)
     - Description: Following the "Ray Tracing in One Weekend" series by Peter Shirley, I implemented a functioning ray tracing algorithm capable of rendering spheres, boxes, triangles with the option for different textures.
-    - Skills learned: C++, object oriented programming -->
+    - Skills demonstrated: C++, object oriented programming -->
 _____________________________________________________________________________________________
 
 ### Relevant Course Work:
 #### Princeton University (Graduate Level Courses):
 - **ELE 535: Machine Learning and Pattern Recognition** - A variety of classical and recent results in theoretical machine learning and statistical analysis were discussed, including: Bayesian classification, regression, regularization, SVD, PCA, support vector machines, kernels, neural networks and gradient descent.
-- **COS 524: Fundamentals of Machine Learning** (audited - no credit given, but see completed projects above) - This course focused on useful approaches to analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covered classification, regression, clustering, dimension reduction (PCA, SVD, NNMF, LDA) and time series models.
+- **COS 524: Fundamentals of Machine Learning** (audited - no credit given, but see projects above) - This course focused on useful approaches to analyzing large complex data sets, exploring both theoretical foundations and practical applications of machine learning. Course covered classification, regression, clustering, dimension reduction (PCA, SVD, NNMF, LDA) and time series models.
 - **MAE 501: Mathematical Methods of Engineering Analysis I** - Covered mathematical topics in linear algebra, matrices, eigenvalue problems, and ordinary and partial differential equations.
 #### Online Course Work:
 - **Andrew Ng’s Deep Learning Specialization** | Coursera | [Credential URL](https://www.coursera.org/verify/specialization/GA9QPDNUG6RB)
@@ -102,7 +103,7 @@ ________________________________________________________________________________
 
 ### More about me (Fun/Miscellaneous):
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
-- I am passionate about the art of photography, both for the journey of capturing the photo and for the story that the photo tells
+- I enjoy the art of photography, both for the journey of capturing the photo and for understanding the story that the photo tells
 
 <!-- - ⚡ Fun fact about me: I made a grand entrance into the world by being born "en caul", a condition where a baby is delivered inside a fully intact amniotic sac. According to some cultures, this is considered a sign of good luck and it's also believed that babies born en caul are incapable of drowning. So, let's just say I'm a lucky and unsinkable little bundle of joy!"
 -->
