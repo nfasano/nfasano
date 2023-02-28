@@ -68,7 +68,7 @@ ________________________________________________________________________________
     - Project Description:
     - Skills Demonstrated:  -->
 - **Movie Recommendation System -- (In progress) --** [Github Repo](https://github.com/nfasano/movieScripts) 
-    - Project Description: Given a set of 160,000+ movie/show scripts, titles, generes, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
+    - Project Description: Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
     - Project Outcomes: 
         - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
         - Combined movie script data with dataset available from IMDb.com containing pertinent movie/show information (e.g. ratings, cast/crew, genre, etc.)
