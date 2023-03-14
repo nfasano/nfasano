@@ -64,6 +64,11 @@ ________________________________________________________________________________
     - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
     - Project Outcome: It was found that... 
     - Skills Demonstrated: Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
+<p align="center">
+<picture>
+<img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="900"/> 
+</picture>
+</p>
 <!-- - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated:  -->
