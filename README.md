@@ -25,13 +25,13 @@ ________________________________________________________________________________
 ### Technical Skills 
 - [x] Python (numpy, pandas, scikit-learn, matplotlib)      
 - [x] SQL    
+- [x] Matlab    
 - [x] Statistical methods and machine learning models
     - [x] Regression (Linear, Multi-linear, Lasso/Ridge, Polynomial, Logistic)
     - [x] Classification (SVM, random forest/decision trees, KNN)
-    - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)                               
-- [x] A/B Testing (Hypothesis Testing) 
-- [x] Data cleaning and preprocessing            
-- [x] Matlab                                       
+  <!--  - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)       -->                        
+  <!--  - [x] A/B Testing (Hypothesis Testing) -->
+- [x] Data cleaning and preprocessing                                               
 - [x] Linux shell scripting  
 - [x] High performance computing               
 - [x] LaTeX
