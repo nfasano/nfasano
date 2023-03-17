@@ -62,7 +62,7 @@ ________________________________________________________________________________
 ### Data Science Personal Projects:
 - **Sentiment classifier on black lives matter tweets --** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
     - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
-    - Project Outcome: It was found that... 
+    - Project Outcome: It was found that no model performed significantly better than a naively assigning all tweets a positive label (which would yield an accuracy of 80%). Logistic regression achieved the best performance on the held out testing with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision of 92%, suggesting that an ensemble learning model may improve predcition accuracy.
     - Skills Demonstrated: Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
 <p align="center">
 <picture>
