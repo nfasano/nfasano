@@ -60,7 +60,7 @@ Main Thesis Contributions:
 _____________________________________________________________________________________________
 
 ### Data Science Personal Projects:
-- **Sentiment classifier on black lives matter tweets --** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
+1) **Sentiment classifier on black lives matter tweets --** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
     - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
     - Project Outcome: It was found that no model performed significantly better than a naively assigning all tweets a positive label (which would yield an accuracy of 80%). Logistic regression achieved the best performance on the held out testing with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision of 92%, suggesting that an ensemble learning model may improve predcition accuracy.
     - Skills Demonstrated: Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 <!-- - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated:  -->
-- **Movie Recommendation System -- (In progress) --** [Github Repo](https://github.com/nfasano/movieScripts) 
+2) **Movie Recommendation System -- (In progress) --** [Github Repo](https://github.com/nfasano/movieScripts) 
     - Project Description: Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
     - Project Outcomes: 
         - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
@@ -82,6 +82,9 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 
 ### Other Coding Projects:
+- **Colosseum ticket tracker and alert system** - [Github Repo](https://github.com/nfasano/colosseumTickets)
+    - Description: Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?option=com_snapp&view=products&snappTemplate=template3&catalogid=ADAE8874-AE4B-55B9-02FB-0167A81C0247&lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried every 5 seconds and based on this information a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
+    - Skills demonstrated: Webscraping, pandas
 - **Bash script for executing code through the Slurm scheduler** - [Github Repo](https://github.com/nfasano/bashScriptsHPC)
     - Description: Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
     - Skills demonstrated: Linux shell scripting, High performance computing 
