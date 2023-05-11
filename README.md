@@ -7,12 +7,12 @@
 
 ____________________________________________________________________________________________
 
-### About me
+### About Me
 I am a Ph.D. candidate studying applied physics at Princeton University, graduating in May, and actively seeking new career opportunities in data science or quantitative research. I am excited by the prospect of uncovering new insights from vast amounts of data, a skill I developed in the last 5+ years by curating and analyzing massive datasets about light-matter interactions. I am ready to bring my extensive research experience to a mission-driven company where I can apply my technical skills to solve challenging problems.
 
 ____________________________________________________________________________________________
 
-### Jump to section: 
+### Jump to Section
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects) 
@@ -46,7 +46,7 @@ ________________________________________________________________________________
     - [x] Time series analysis    -->
 ____________________________________________________________________________________________
 
-### Dissertation Research Projects: 
+### Dissertation Research Projects
 [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
 
 My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Devolping these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
@@ -64,7 +64,7 @@ Main Thesis Contributions:
 
 _____________________________________________________________________________________________
 
-### Data Science Projects:
+### Data Science Projects
 
 #### 1) Sentiment classifier on black lives matter tweets    
 - [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
@@ -91,7 +91,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-### Other Coding Projects:
+### Other Coding Projects
 
 #### 1) Colosseum ticket tracker and alert system
 - [Github Repo](https://github.com/nfasano/colosseumTickets)
@@ -124,7 +124,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-### More about me (Fun/Miscellaneous):
+### More about me (Fun/Miscellaneous)
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I enjoy the art of photography, both for the journey of capturing the photo and for understanding the story that the photo tells
 
