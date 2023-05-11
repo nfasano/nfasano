@@ -17,7 +17,7 @@ ________________________________________________________________________________
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects) 
     * [Sentiment classifier on black lives matter tweets](1-sentiment-classifier-on-black-lives-matter-tweets) 
-    * [Movie Recommendation System (In progress)](#2-movie-recommendation-system-in-progress) 
+    * [Movie recommendation system (in progress)](#2-movie-recommendation-system-in-progress) 
 * [Other Coding Projects](#other-coding-projects) 
     * [Colosseum ticket tracker and alert system](#1-colosseum-ticket-tracker-and-alert-system) 
     * [Bash script for executing code through the Slurm scheduler](#2-bash-script-for-executing-code-through-the-slurm-scheduler) 
