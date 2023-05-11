@@ -104,7 +104,7 @@ ________________________________________________________________________________
 - **Skills demonstrated:** Linux shell scripting, High performance computing 
 
 #### 3) Shopping list in Google sheets 
-- [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
+- [Try it here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
 - **Description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
 - **Skills demonstrated:** google sheets, JavaScript programming 
 
