@@ -15,7 +15,8 @@ ________________________________________________________________________________
 ### Jump to section: 
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
-* [Data Science Personal Projects](#data-science-personal-projects) 
+* [Data Science Projects](#data-science-projects) 
+    * [2) Movie Recommendation System (In progress)](#movie-recommendation-system-(in-progress)) 
 * [Other Coding Projects](#other-coding-projects) 
 * [Relevant Course Work](#relevant-course-work) 
 * [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
@@ -59,11 +60,14 @@ Main Thesis Contributions:
 
 _____________________________________________________________________________________________
 
-### Data Science Personal Projects:
-1) **Sentiment classifier on black lives matter tweets --** [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
-    - Project Description: Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
-    - Project Outcome: It was found that no model performed significantly better than a naively assigning all tweets a positive label (which would yield an accuracy of 80%). Logistic regression achieved the best performance on the held out testing with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision of 92%, suggesting that an ensemble learning model may improve predcition accuracy.
-    - Skills Demonstrated: Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
+### Data Science Projects:
+
+#### 1) Sentiment classifier on black lives matter tweets    
+- [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
+- **Project Description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
+- **Project Outcome:** It was found that no model performed significantly better than a naively assigning all tweets a positive label (which would yield an accuracy of 80%). Logistic regression achieved the best performance on the held out testing with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision of 92%, suggesting that an ensemble learning model may improve predcition accuracy.
+- **Skills Demonstrated:** Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
+    
 <p align="center">
 <picture>
 <img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="900"/> 
@@ -72,12 +76,13 @@ ________________________________________________________________________________
 <!-- - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated:  -->
-2) **Movie Recommendation System -- (In progress) --** [Github Repo](https://github.com/nfasano/movieScripts) 
-    - Project Description: Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
-    - Project Outcomes: 
-        - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
-        - Combined movie script data with dataset available from IMDb.com containing pertinent movie/show information (e.g. ratings, cast/crew, genre, etc.)
-    - Skills Demonstrated: Webscraping (beautifulSoup, selenium), SQL, NLP, Latent Dirichlet Allocation,  
+#### 2) Movie Recommendation System (In progress) 
+- [Github Repo](https://github.com/nfasano/movieScripts) 
+- **Project Description:** Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
+- **Project Outcomes:** 
+    - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
+    - Combined movie script data with dataset available from IMDb.com containing pertinent movie/show information (e.g. ratings, cast/crew, genre, etc.)
+- **Skills Demonstrated:** Webscraping (beautifulSoup, selenium), SQL, NLP, Latent Dirichlet Allocation,  
 
 _____________________________________________________________________________________________
 
