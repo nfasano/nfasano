@@ -16,7 +16,8 @@ ________________________________________________________________________________
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects) 
-    * [2) Movie Recommendation System (In progress)](#movie-recommendation-system-(in-progress)) 
+    * [1) Sentiment classifier on black lives matter tweets](1-sentiment-classifier-on-black-lives-matter-tweets) 
+    * [2) Movie Recommendation System (In progress)](#2-movie-recommendation-system-in-progress) 
 * [Other Coding Projects](#other-coding-projects) 
 * [Relevant Course Work](#relevant-course-work) 
 * [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
@@ -76,6 +77,7 @@ ________________________________________________________________________________
 <!-- - **Predicting Fragile Family Outcomes** (Github Repo)
     - Project Description:
     - Skills Demonstrated:  -->
+    
 #### 2) Movie Recommendation System (In progress) 
 - [Github Repo](https://github.com/nfasano/movieScripts) 
 - **Project Description:** Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
