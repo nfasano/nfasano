@@ -19,6 +19,9 @@ ________________________________________________________________________________
     * [1) Sentiment classifier on black lives matter tweets](1-sentiment-classifier-on-black-lives-matter-tweets) 
     * [2) Movie Recommendation System (In progress)](#2-movie-recommendation-system-in-progress) 
 * [Other Coding Projects](#other-coding-projects) 
+    * [1) Sentiment classifier on black lives matter tweets](1-sentiment-classifier-on-black-lives-matter-tweets) 
+    * [2) Movie Recommendation System (In progress)](#2-movie-recommendation-system-in-progress) 
+    * [2) Movie Recommendation System (In progress)](#2-movie-recommendation-system-in-progress) 
 * [Relevant Course Work](#relevant-course-work) 
 * [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
 
@@ -78,7 +81,7 @@ ________________________________________________________________________________
     - Project Description:
     - Skills Demonstrated:  -->
     
-#### 2) Movie Recommendation System (In progress) 
+#### 2) Movie recommendation system (in progress) 
 - [Github Repo](https://github.com/nfasano/movieScripts) 
 - **Project Description:** Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
 - **Project Outcomes:** 
@@ -89,16 +92,21 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 
 ### Other Coding Projects:
-- **Colosseum ticket tracker and alert system** - [Github Repo](https://github.com/nfasano/colosseumTickets)
-    - Description: Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?option=com_snapp&view=products&snappTemplate=template3&catalogid=ADAE8874-AE4B-55B9-02FB-0167A81C0247&lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
-    - Skills demonstrated: Webscraping, pandas
-- **Bash script for executing code through the Slurm scheduler** - [Github Repo](https://github.com/nfasano/bashScriptsHPC)
-    - Description: Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
-    - Skills demonstrated: Linux shell scripting, High performance computing 
 
-- **Shopping List in Google sheets** - [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
-    - Description: Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
-    - Skills demonstrated: google sheets, JavaScript programming 
+#### 1) Colosseum ticket tracker and alert system
+- [Github Repo](https://github.com/nfasano/colosseumTickets)
+- **Description:** Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?option=com_snapp&view=products&snappTemplate=template3&catalogid=ADAE8874-AE4B-55B9-02FB-0167A81C0247&lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
+- **Skills demonstrated:** Webscraping, pandas
+
+#### 2) Bash script for executing code through the Slurm scheduler 
+- [Github Repo](https://github.com/nfasano/bashScriptsHPC)
+- **Description:** Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
+- **Skills demonstrated:** Linux shell scripting, High performance computing 
+
+#### 3) Shopping list in Google sheets 
+- [Try it Here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
+- **Description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
+- **Skills demonstrated:** google sheets, JavaScript programming 
 
 <!-- - **Ray tracing renderer ** - (Github Repo)
     - Description: Following the "Ray Tracing in One Weekend" series by Peter Shirley, I implemented a functioning ray tracing algorithm capable of rendering spheres, boxes, triangles with the option for different textures.
