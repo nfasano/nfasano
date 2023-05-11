@@ -16,7 +16,7 @@ ________________________________________________________________________________
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects) 
-    * [Sentiment classifier on black lives matter tweets](1-sentiment-classifier-on-black-lives-matter-tweets) 
+    * [Sentiment classifier on black lives matter tweets](#1-sentiment-classifier-on-black-lives-matter-tweets) 
     * [Movie recommendation system (in progress)](#2-movie-recommendation-system-in-progress) 
 * [Other Coding Projects](#other-coding-projects) 
     * [Colosseum ticket tracker and alert system](#1-colosseum-ticket-tracker-and-alert-system) 
