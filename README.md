@@ -47,11 +47,9 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________
 
 ### Dissertation Research Projects
-Find complete list of publications here: [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en)
-
-Link to download thesis: [Thesis](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_dissertation_final_compressed.pdf) 
-
-Link to download slides from my defense: [Final public oral slides](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_final_public_oral.pdf) 
+- [Google scholar profile](https://scholar.google.com/citations?user=X9sdXuQAAAAJ&hl=en) - Link to my publications
+- [Thesis](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_dissertation_final_compressed.pdf) - Link to view and download my thesis
+- [Final public oral slides](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_final_public_oral.pdf) - Link to view and download slides from my thesis defense
 
 My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Devolping these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
 
