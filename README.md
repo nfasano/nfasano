@@ -79,9 +79,9 @@ ________________________________________________________________________________
 <img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="900"/> 
 </picture>
 </p>
-<!-- - **Predicting Fragile Family Outcomes** (Github Repo)
-    - Project Description:
-    - Skills Demonstrated:  -->
+
+*Figure: Word clouds for negatively and positively labelled tweets.*
+
     
 #### 2) Movie recommendation system (in progress) 
 - [Github Repo](https://github.com/nfasano/movieScripts) 
