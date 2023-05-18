@@ -80,7 +80,7 @@ ________________________________________________________________________________
 </picture>
 </p>
 
-*Figure: Word clouds for negatively and positively labelled tweets.*
+*Figure caption: Word clouds for negatively and positively labelled tweets.*
 
     
 #### 2) Movie recommendation system (in progress) 
