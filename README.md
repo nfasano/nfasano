@@ -68,8 +68,7 @@ ________________________________________________________________________________
 
 ### Data Science Projects
 
-#### 1) Sentiment classifier on black lives matter tweets    
-- [Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)
+#### 1) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)]  
 - **Project Description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
 - **Project Outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
 - **Skills Demonstrated:** Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
@@ -83,8 +82,7 @@ ________________________________________________________________________________
 *Figure caption: Word clouds for negatively and positively labelled tweets.*
 
     
-#### 2) Movie recommendation system (in progress) 
-- [Github Repo](https://github.com/nfasano/movieScripts) 
+#### 2) Movie recommendation system (in progress) [[Github Repo](https://github.com/nfasano/movieScripts)]
 - **Project Description:** Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
 - **Project Outcomes:** 
     - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
