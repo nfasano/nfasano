@@ -97,7 +97,7 @@ ________________________________________________________________________________
 
 #### 1) Colosseum ticket tracker and alert system
 - [Github Repo](https://github.com/nfasano/colosseumTickets)
-- **Description:** Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?option=com_snapp&view=products&snappTemplate=template3&catalogid=ADAE8874-AE4B-55B9-02FB-0167A81C0247&lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
+- **Description:** Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
 - **Skills demonstrated:** Webscraping, pandas
 
 #### 2) Bash script for executing code through the Slurm scheduler 
