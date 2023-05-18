@@ -76,7 +76,7 @@ ________________________________________________________________________________
     
 <p align="center">
 <picture>
-<img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="900"/> 
+<img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="700"/> 
 </picture>
 </p>
 
