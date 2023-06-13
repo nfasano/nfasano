@@ -90,7 +90,7 @@ ________________________________________________________________________________
 - **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, NLP, Latent Dirichlet Allocation,  
 
 #### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseumTickets)]
-- **Project description:** Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
+- **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
 - **Skills demonstrated:** Webscraping, pandas
 _____________________________________________________________________________________________
 
