@@ -89,21 +89,20 @@ ________________________________________________________________________________
     - Combined movie script data with dataset available from IMDb.com containing pertinent movie/show information (e.g. ratings, cast/crew, genre, etc.)
 - **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, NLP, Latent Dirichlet Allocation,  
 
+#### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseumTickets)]
+- **Project description:** Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
+- **Skills demonstrated:** Webscraping, pandas
 _____________________________________________________________________________________________
 
 ### Other coding projects
 
-#### 1) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseumTickets)]
-- **Project description:** Wrote an algorithm to track the ticket availability on the official Colosseum website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket information was queried in intervals between 5 seconds and one minute, depending on the time of day. Based on this information, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be updated by email when tickets for a particular date go on sale.
-- **Skills demonstrated:** Webscraping, pandas
-
+#### 1) Shopping list in Google sheets [[Try it here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)]
+- **Project description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
+- **Skills demonstrated:** google sheets, JavaScript programming 
+- 
 #### 2) Bash script for executing code through the Slurm scheduler [[Github Repo](https://github.com/nfasano/bashScriptsHPC)]
 - **Description:** Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
 - **Skills demonstrated:** Linux shell scripting, High performance computing 
-
-#### 3) Shopping list in Google sheets [[Try it here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)]
-- **Project description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
-- **Skills demonstrated:** google sheets, JavaScript programming 
 
 <!-- - **Ray tracing renderer ** - (Github Repo)
     - Description: Following the "Ray Tracing in One Weekend" series by Peter Shirley, I implemented a functioning ray tracing algorithm capable of rendering spheres, boxes, triangles with the option for different textures.
