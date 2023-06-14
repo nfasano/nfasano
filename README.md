@@ -99,7 +99,7 @@ ________________________________________________________________________________
 #### 1) Shopping list in Google sheets [[Try it here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)]
 - **Project description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
 - **Skills demonstrated:** google sheets, JavaScript programming 
-- 
+
 #### 2) Bash script for executing code through the Slurm scheduler [[Github Repo](https://github.com/nfasano/bashScriptsHPC)]
 - **Description:** Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
 - **Skills demonstrated:** Linux shell scripting, High performance computing 
