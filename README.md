@@ -83,13 +83,14 @@ ________________________________________________________________________________
 
     
 #### 2) Content-based movie recommendation system [[Github Repo](https://github.com/nfasano/movie_recsys)]
-- **Project description:** Built an end-to-end movie recommendation system, starting with webscraping a set of 150,000+ film scripts and ending with a recommendation app for providing content-based recommendations.
+- **Project description:** Built an end-to-end movie recommendation system, starting with data collection and ending with model deployment. The recommender takes in one movie selected from the database and some filtering options (e.g. minimum IMDb rating) and returns a list of 5 movies with similar content as the input movie.
 - **Project outcomes:** 
-    - Curated a dataset of 150,000+ film scripts through webscraping. Cleaned and synthesized this dataset with relevant metadata collected from publically available datasets (IMDb.com, MovieLens.com, and TMDB.org).
-    - Pre-processed the dataset using NLP techniques (e.g. removed stop words, applied lemmatization) and then creates a bag-of-words representation of the entire corpus.
-    - Used Latent Dirichlet Allocation to build a topic model, number of topics was chosen based on the calculated perplexity on a held-out test set of movie scripts.  
-    - Designed a ranking system by first ordering movies based on topic similarity (cosine-similarity metric) to an input movie and then applying post-processing filters to remove movies below a certain IMDb rating. 
-    - Built an app with gradio to provide the top 5 movie recommendations based on a selected movie from the database. I Deployed the app to Hugging Face's spaces ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)).
+    - Webscraped a dataset of 150,000+ film scripts from several websites. Combined this dataset with relevant metadata collected from publically available datasets (IMDb.com, MovieLens.com, and TMDB.org).
+    - Processed the dataset using NLP techniques, including stop word removal and lemmatization, and then created a bag-of-words representation for the corpus.
+    - Built a topic model using Latent Dirichlet Allocation (LDA). The number of topics was chosen by evaluating the perplexity on a held-out test set of movie scripts.  
+    - Movie recommendations are ranked according to the cosine-similarity between the movie's latent topics.
+    - To serve the recommendations, I built a web app using gradio and deployed it to Hugging Face's spaces. The app returns the recommendations along with IMDb metadata (genre, IMDb rating, and link to IMDb title page for that movie). ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)).
+
 - **Future work:**
     - Extend the movie recommendation system to provide collaborative-based recommendations alongside content-based recommendations. See 'recsys_collab_based' folder in this repository for some examples where I used the MovieLens rating matrix to build and test several models, including a heuristic model (pearson correlation metric), Naive Bayes, and matrix factorization.
 
