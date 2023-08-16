@@ -85,7 +85,7 @@ ________________________________________________________________________________
 #### 2) Content-based movie recommendation system [[Github Repo](https://github.com/nfasano/movie_recsys)]
 - **Project description:** Built an end-to-end movie recommendation system, starting with data collection and ending with model deployment. The recommender takes in one movie selected from the database and some filtering options (e.g. minimum IMDb rating) and returns a list of 5 movies with similar content as the input movie.
 - **Project outcomes:** 
-    - Webscraped a dataset of 150,000+ film scripts from several websites. Combined this dataset with relevant metadata collected from publically available datasets (IMDb.com, MovieLens.com, and TMDB.org).
+    - Webscraped a dataset of 150,000+ film scripts from several websites. Combined this dataset with relevant metadata collected from publically available datasets ([IMDb.com](https://www.imdb.com/interfaces/), [MovieLens.com](https://movielens.org/home), and [themoviedb.org](https://www.themoviedb.org/?language=en-US)).
     - Processed the dataset using NLP techniques, including stop word removal and lemmatization, and then created a bag-of-words representation for the corpus.
     - Built a topic model using Latent Dirichlet Allocation (LDA). The number of topics was chosen by evaluating the perplexity on a held-out test set of movie scripts.  
     - Movie recommendations are ranked according to the cosine-similarity between the movie's latent topics.
