@@ -70,8 +70,8 @@ ________________________________________________________________________________
 
 #### 1) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)]  
 - **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
-- **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
-- **Skills demonstrated:** Python, sentiment analysis, NLP, hypothesis testing, classification models and evaluation metrics
+- **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held-out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
+- **Skills demonstrated:** Python, pandas, scikit-learn, sentiment analysis, NLP, lemmatization, hypothesis testing, classification models, and evaluation metrics
     
 <p align="center">
 <picture>
@@ -83,11 +83,17 @@ ________________________________________________________________________________
 
     
 #### 2) Content-based movie recommendation system [[Github Repo](https://github.com/nfasano/movie_recsys)]
-- **Project description:** Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
+- **Project description:** Built an end-to-end movie recommendation system, starting with webscraping a set of 150,000+ film scripts and ending with a recommendation app for providing content-based recommendations.
 - **Project outcomes:** 
-    - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
-    - Combined movie script data with dataset available from IMDb.com containing pertinent movie/show information (e.g. ratings, cast/crew, genre, etc.)
-- **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, NLP, Latent Dirichlet Allocation,  
+    - Curated a dataset of 150,000+ film scripts through webscraping. Cleaned and synthesized this dataset with relevant metadata collected from publically available datasets (IMDb.com, MovieLens.com, and TMDB.org).
+    - Pre-processed the dataset using NLP techniques (e.g. removed stop words, applied lemmatization) and then creates a bag-of-words representation of the entire corpus.
+    - Used Latent Dirichlet Allocation to build a topic model, number of topics was chosen based on the calculated perplexity on a held-out test set of movie scripts.  
+    - Designed a ranking system by first ordering movies based on topic similarity (cosine-similarity metric) to an input movie and then applying post-processing filters to remove movies below a certain IMDb rating. 
+    - Built an app with gradio to provide the top 5 movie recommendations based on a selected movie from the database. I Deployed the app to Hugging Face's spaces ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)).
+- **Future work:**
+    - Extend the movie recommendation system to provide collaborative-based recommendations alongside content-based recommendations. See 'recsys_collab_based' folder in this repository for some examples where I used the MovieLens rating matrix to build and test several models, including a heuristic model (pearson correlation metric), Naive Bayes, and matrix factorization.
+
+- **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, gradio
 
 #### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseumTickets)]
 - **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
