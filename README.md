@@ -17,7 +17,7 @@ ________________________________________________________________________________
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects) 
     * [Sentiment classifier on black lives matter tweets](#1-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
-    * [Movie recommendation system (in progress)](#2-movie-recommendation-system-in-progress-github-repo)
+    * [Content-based movie recommendation system](#2-content-based-movie-recommendation-system-github-repo)
     * [Colosseum ticket tracker and alert system](#3-colosseum-ticket-tracker-and-alert-system-github-repo)  
 * [Other Coding Projects](#other-coding-projects) 
     * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets-try-it-here) 
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 *Figure caption: Word clouds for negatively and positively labelled tweets.*
 
     
-#### 2) Movie recommendation system (in progress) [[Github Repo](https://github.com/nfasano/movieScripts)]
+#### 2) Content-based movie recommendation system [[Github Repo](https://github.com/nfasano/movie_recsys)]
 - **Project description:** Given a set of 160,000+ movie/show scripts, titles, genres, cast/crew, ratings, budget, earnings, etc., I aim to build a movie recommendation system using a topic model (Latent Dirichlet Allocation). 
 - **Project outcomes:** 
     - Curated a dataset containing 30,000+ movie scripts and 130,000+ TV episode scripts through webscraping
