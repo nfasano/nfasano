@@ -2,7 +2,7 @@
     Nicholas Fasano
 </h3>
 <h3 align="center">
-    nmfasano5@gmail.com | <a href="https://www.linkedin.com/in/nmfasano/" target="_blank">LinkedIn</a> | <a href="https://github.com/nfasano/nfasano/blob/main/Fasano_Resume_Current.pdf" target="_blank">Resume</a>
+    nmfasano5@gmail.com | <a href="https://www.linkedin.com/in/nmfasano/" target="_blank">LinkedIn</a> | <a href="https://github.com/nfasano/nfasano/blob/main/2023_08_18_Fasano_master_resume.pdf" target="_blank">Resume</a>
 </h3>
 
 ____________________________________________________________________________________________
