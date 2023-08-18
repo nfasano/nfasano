@@ -34,8 +34,10 @@ ________________________________________________________________________________
 - [x] Statistical methods and machine learning models
     - [x] Regression (Linear, Multi-linear, Lasso/Ridge, Polynomial, Logistic)
     - [x] Classification (SVM, random forest/decision trees, KNN)
+    - [x] Unsupervised (SVD, PCA, k-means, Latent Dirichlet Allocation, GMM)
+    - [x] A/B Testing (Hypothesis Testing) 
   <!--  - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)       -->                        
-  <!--  - [x] A/B Testing (Hypothesis Testing) -->
+  <!--   -->
 - [x] Data cleaning and preprocessing                                               
 - [x] Linux shell scripting  
 - [x] High performance computing               
