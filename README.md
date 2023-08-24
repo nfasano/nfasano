@@ -16,8 +16,8 @@ ________________________________________________________________________________
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects) 
-    * [Sentiment classifier on black lives matter tweets](#1-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
     * [Content-based movie recommendation system](#2-content-based-movie-recommendation-system-github-repo)
+    * [Sentiment classifier on black lives matter tweets](#1-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
     * [Colosseum ticket tracker and alert system](#3-colosseum-ticket-tracker-and-alert-system-github-repo)  
 * [Other Coding Projects](#other-coding-projects) 
     * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets-try-it-here) 
@@ -70,21 +70,7 @@ ________________________________________________________________________________
 
 ### Data science projects
 
-#### 1) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)]  
-- **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
-- **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held-out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
-- **Skills demonstrated:** Python, pandas, scikit-learn, sentiment analysis, NLP, lemmatization, hypothesis testing, classification models, and evaluation metrics
-    
-<p align="center">
-<picture>
-<img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="700"/> 
-</picture>
-</p>
-
-*Figure caption: Word clouds for negatively and positively labelled tweets.*
-
-    
-#### 2) Content-based movie recommendation system [[Github Repo](https://github.com/nfasano/movie_recsys)]
+#### 1) Content-based movie recommendation system [[Github Repo](https://github.com/nfasano/movie_recsys)]
 - **Project description:** Built an end-to-end movie recommendation system, starting with data collection and ending with model deployment. The recommender takes in one movie selected from the database and some filtering options (e.g. minimum IMDb rating) and returns a list of 5 movies with similar content as the input movie.
 - **Project outcomes:** 
     - Webscraped a dataset of 150,000+ film scripts from several websites. Combined this dataset with relevant metadata collected from publically available datasets ([IMDb.com](https://www.imdb.com/interfaces/), [MovieLens.com](https://movielens.org/home), and [themoviedb.org](https://www.themoviedb.org/?language=en-US)).
@@ -97,6 +83,19 @@ ________________________________________________________________________________
     - Extend the movie recommendation system to provide collaborative-based recommendations alongside content-based recommendations. See 'recsys_collab_based' folder in this repository for some examples where I used the MovieLens rating matrix to build and test several models, including a heuristic model (pearson correlation metric), Naive Bayes, and matrix factorization.
 
 - **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, gradio
+
+#### 2) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)]  
+- **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
+- **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held-out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
+- **Skills demonstrated:** Python, pandas, scikit-learn, sentiment analysis, NLP, lemmatization, hypothesis testing, classification models, and evaluation metrics
+    
+<p align="center">
+<picture>
+<img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="700"/> 
+</picture>
+</p>
+
+*Figure caption: Word clouds for negatively and positively labelled tweets.*
 
 #### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseumTickets)]
 - **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
