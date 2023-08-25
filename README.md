@@ -78,6 +78,8 @@ ________________________________________________________________________________
 - **Future work:**
     - Extend the movie recommendation system to provide collaborative-based recommendations alongside content-based recommendations. See 'recsys_collab_based' folder in this repository for some examples where I used the MovieLens rating matrix to build and test several models, including a heuristic model (pearson correlation metric), Naive Bayes, and matrix factorization.
 
+____________________________________________________________________________________________
+
 - **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, gradio
 
 #### 2) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)]  
@@ -87,6 +89,7 @@ ________________________________________________________________________________
     
 <img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="80%"/> 
 
+____________________________________________________________________________________________
 
 *Figure caption: Word clouds for negatively and positively labelled tweets.*
 
