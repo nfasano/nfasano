@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 - **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, gradio
 
-#### 2) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentimentClassifier_blmTweets)]  
+#### 2) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentiment_classifier_blm_tweets)]  
 - **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
 - **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held-out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
 - **Skills demonstrated:** Python, pandas, scikit-learn, sentiment analysis, NLP, lemmatization, hypothesis testing, classification models, and evaluation metrics
@@ -93,7 +93,7 @@ ________________________________________________________________________________
 
 *Figure caption: Word clouds for negatively and positively labelled tweets.*
 
-#### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseumTickets)]
+#### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseum_ticket_tracker)]
 - **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
 - **Skills demonstrated:** Webscraping, pandas, data visualization, data cleaning and processing
 _____________________________________________________________________________________________
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 - **Project description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
 - **Skills demonstrated:** google sheets, JavaScript programming 
 
-#### 2) Bash script for executing code through the Slurm scheduler [[Github Repo](https://github.com/nfasano/bashScriptsHPC)]
+#### 2) Bash script for executing code through the Slurm scheduler [[Github Repo](https://github.com/nfasano/bash_scripts_for_hpc)]
 - **Description:** Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
 - **Skills demonstrated:** Linux shell scripting, High performance computing 
 
