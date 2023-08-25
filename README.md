@@ -129,11 +129,7 @@ ________________________________________________________________________________
 -->
 
 
-<img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="32%"/> 
-
-<img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1157_Cropped.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0411_TouchUp.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="32%"/> 
-
-<img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3527_2f.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3533_2.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/Ramen_22.jpg" alt="drawing" width="32%"/> 
+<img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_1157_Cropped.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0411_TouchUp.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/BuffaloChickenPizza_4x6.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3527_2f.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3533_2.jpg" alt="drawing" width="32%"/> <img src="https://github.com/nfasano/nfasano/blob/main/images/Ramen_22.jpg" alt="drawing" width="32%"/> 
 
 <!--
 **nfasano/nfasano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
