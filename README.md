@@ -89,9 +89,9 @@ ________________________________________________________________________________
     
 <picture> <img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="80%"/> </picture> 
 
-____________________________________________________________________________________________
-
 *Figure caption: Word clouds for negatively and positively labelled tweets.*
+
+____________________________________________________________________________________________
 
 #### 3) Colosseum ticket tracker and alert system [[Github Repo](https://github.com/nfasano/colosseum_ticket_tracker)]
 - **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
