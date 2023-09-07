@@ -74,13 +74,11 @@ ________________________________________________________________________________
     - Built a topic model using Latent Dirichlet Allocation (LDA). The number of topics was chosen by evaluating the perplexity on a held-out test set of movie scripts.  
     - Movie recommendations are ranked according to the cosine-similarity between the movie's latent topics.
     - To serve the recommendations, I built a web app using gradio and deployed it to Hugging Face's spaces. The app returns the recommendations along with IMDb metadata (genre, IMDb rating, and link to IMDb title page for that movie). ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)).
-
 - **Future work:**
     - Extend the movie recommendation system to provide collaborative-based recommendations alongside content-based recommendations. See 'recsys_collab_based' folder in this repository for some examples where I used the MovieLens rating matrix to build and test several models, including a heuristic model (pearson correlation metric), Naive Bayes, and matrix factorization.
+- **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, radio
 
 ____________________________________________________________________________________________
-
-- **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, gradio
 
 #### 2) Sentiment classifier on black lives matter tweets [[Github Repo](https://github.com/nfasano/sentiment_classifier_blm_tweets)]  
 - **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
