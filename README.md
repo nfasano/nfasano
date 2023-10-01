@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________
 
 ### About me
-I am a postdoctoral researcher at Princeton University studying applied physics and actively seeking new career opportunities in data science or quantitative research. I am excited by the prospect of uncovering new insights from vast amounts of data, a skill I developed in the last 6+ years by curating and analyzing massive datasets about light-matter interactions. I am ready to bring my extensive research experience to a mission-driven company where I can apply my technical skills to solve challenging problems.
+Experienced applied scientist at Princeton University with 6 years of leading data-driven research projects. I am currently looking for a full-time data science position at a mission-driven company, where I can apply my technical skills to solve challenging problems. 
 
 ____________________________________________________________________________________________
 
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 - [Thesis](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_dissertation_final_compressed.pdf) - Link to view and download my thesis
 - [Final public oral slides](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_final_public_oral.pdf) - Link to view and download slides from my thesis defense
 
-My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Devolping these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
+My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Developing these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
 
 Main thesis contributions:
 - Led an experimental campaign on Princeton's 20TW laser system, which demonstrated waveform-controlled harmonic generation using a novel experimental technique (a multi-pass plasma mirror configuration), resulting in two conference presentations and a written manuscript
@@ -67,16 +67,17 @@ ________________________________________________________________________________
 ### Data science projects
 
 #### 1) Content-based movie recommendation system [[Github Repo]](https://github.com/nfasano/movie_recsys)
-- **Project description:** Built an end-to-end movie recommendation system, starting with data collection and ending with model deployment. The recommender takes in one movie selected from the database and some filtering options (e.g. minimum IMDb rating) and returns a list of 5 movies with similar content as the input movie.
+- **Project description:** Inspired by the seductive power of Tik-Tok's personalized feed and a strong desire to learn how industry recommender systems are designed, I developed an end-to-end movie recommender system. The recommender model is based on the Collaborative Topic Model (CTM), a hybrid approach that combines topic information from film scripts and user-movie interactions from a ratings matrix. The datasets consisted of web-scraped film scripts, movie metadata (IMDb.com), and user-movie ratings (MovieLens.org). This hybrid model achieves a modest improvement (1%) in root-mean-square error compared to traditional matrix factorization approaches, but alleviates the item cold-start problem thanks to the topic model. Finally, I deployed the recommender as a web-based app on Hugging Face Spaces for anyone to demo.
+
+Get your own movie recommendation! ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space))
 - **Project outcomes:** 
-    - Webscraped a dataset of 150,000+ film scripts from several websites. Combined this dataset with relevant metadata collected from publically available datasets ([IMDb.com](https://www.imdb.com/interfaces/), [MovieLens.com](https://movielens.org/home), and [themoviedb.org](https://www.themoviedb.org/?language=en-US)).
-    - Processed the dataset using NLP techniques, including stop word removal and lemmatization, and then created a bag-of-words representation for the corpus.
-    - Built a topic model using Latent Dirichlet Allocation (LDA). The number of topics was chosen by evaluating the perplexity on a held-out test set of movie scripts.  
-    - Movie recommendations are ranked according to the cosine-similarity between the movie's latent topics.
-    - To serve the recommendations, I built a web app using gradio and deployed it to Hugging Face's spaces. The app returns the recommendations along with IMDb metadata (genre, IMDb rating, and link to IMDb title page for that movie). ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)).
+    - Engineered a data pipeline for web-scraping, cleaning, and processing 160k film scripts using NLP. Synthesized film scripts with external datasets (IMDb and MovieLens) into a database that can be queried with SQL
+    - Processed the film scripts dataset using NLP techniques, including stop word removal and lemmatization, and then created a bag-of-words representation for the corpus
+    - Built a collaborative topic model (latent Dirichlet allocation + SVD) that shows a modest (1%) improvement in RMSE compared to SVD alone, but alleviates the new item cold-start problem with a recall@20 score of 41% for unrated movies
+    - To serve the recommendations, I built a web-based app using gradio and deployed it to Hugging Face's Spaces. The app returns the recommendations, ranked according to cosine-similarity between the movies latent topics, along with IMDb metadata (genre, IMDb rating, IMDb link) and poster art from tmdb.org.
 - **Future work:**
-    - Extend the movie recommendation system to provide collaborative-based recommendations alongside content-based recommendations. See 'recsys_collab_based' folder in this repository for some examples where I used the MovieLens rating matrix to build and test several models, including a heuristic model (pearson correlation metric), Naive Bayes, and matrix factorization.
-- **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, radio
+    - Build word and image embeddings using film scripts and movie posters, respectively, and build a recommender model based on the two-tower architecture
+- **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, SVD, Gradio
 
 ____________________________________________________________________________________________
 
