@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________
 
 ### About me
-Experienced applied scientist at Princeton University with 6 years of leading data-driven research projects. I am currently looking for a full-time data science position at a mission-driven company, where I can apply my technical skills to solve challenging problems. 
+Applied scientist at Princeton University with 6 years of experience leading data-driven research projects. I am currently looking for a full-time data science position at a mission-driven company, where I can apply my technical skills to solve challenging problems. 
 
 ____________________________________________________________________________________________
 
