@@ -15,8 +15,8 @@ ________________________________________________________________________________
 ### Jump to section
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
-* [Data Science Projects](#data-science-projects) 
-    * [Content-based movie recommendation system](#1-content-based-movie-recommendation-system-github-repo)
+* [Data Science Projects](#data-science-projects)
+    * [Content-based movie recommendation system](#1-movie-recommender-system-via-a-collaborative-topic-model-github-repo)
     * [Sentiment classifier on black lives matter tweets](#2-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
     * [Colosseum ticket tracker and alert system](#3-colosseum-ticket-tracker-and-alert-system-github-repo)  
 * [Other Coding Projects](#other-coding-projects) 
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 ### Data science projects
 
-#### 1) Content-based movie recommendation system [[Github Repo]](https://github.com/nfasano/movie_recsys)
+#### 1) Movie recommender system via a collaborative topic model [[Github Repo]](https://github.com/nfasano/movie_recsys)
 - **Project description:** Inspired by the seductive power of Tik-Tok's personalized feed and a strong desire to learn how industry recommender systems are designed, I developed an end-to-end movie recommender system. The recommender model is based on the Collaborative Topic Model (CTM), a hybrid approach that combines topic information from film scripts and user-movie interactions from a ratings matrix. The datasets consisted of web-scraped film scripts, movie metadata (IMDb.com), and user-movie ratings (MovieLens.org). This hybrid model achieves a modest improvement (1%) in root-mean-square error compared to traditional matrix factorization approaches, but alleviates the item cold-start problem thanks to the topic model. Finally, I deployed the recommender as a web-based app on Hugging Face Spaces for anyone to demo.
 
 Get your own movie recommendation! ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space))
