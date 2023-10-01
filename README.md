@@ -69,7 +69,7 @@ ________________________________________________________________________________
 #### 1) Movie recommender system via a collaborative topic model [[Github Repo]](https://github.com/nfasano/movie_recsys)
 - **Project description:** Inspired by the seductive power of Tik-Tok's personalized feed and a strong desire to learn how industry recommender systems are designed, I developed an end-to-end movie recommender system. The recommender model is based on the Collaborative Topic Model (CTM), a hybrid approach that combines topic information from film scripts and user-movie interactions from a ratings matrix. The datasets consisted of web-scraped film scripts, movie metadata (IMDb.com), and user-movie ratings (MovieLens.org). This hybrid model achieves a modest improvement (1%) in root-mean-square error compared to traditional matrix factorization approaches, but alleviates the item cold-start problem thanks to the topic model. Finally, I deployed the recommender as a web-based app on Hugging Face Spaces for anyone to demo.
 
-Get your own movie recommendation! ([try it here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space))
+ [Get your movie recommendation now!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)
 - **Project outcomes:** 
     - Engineered a data pipeline for web-scraping, cleaning, and processing 160k film scripts using NLP. Synthesized film scripts with external datasets (IMDb and MovieLens) into a database that can be queried with SQL
     - Processed the film scripts dataset using NLP techniques, including stop word removal and lemmatization, and then created a bag-of-words representation for the corpus
