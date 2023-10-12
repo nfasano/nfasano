@@ -34,9 +34,9 @@ ________________________________________________________________________________
 - [x] SQL    
 - [x] Matlab    
 - [x] Statistical methods and machine learning models
-    - [x] Regression (Linear, Multi-linear, Lasso/Ridge, Polynomial, Logistic)
-    - [x] Classification (SVM, random forest/decision trees, KNN)
-    - [x] Unsupervised (SVD, PCA, k-means, Latent Dirichlet Allocation, GMM)
+    - [x] Regression (Linear, Lasso/Ridge)
+    - [x] Classification (Logistic, decision trees, KNN)
+    - [x] Unsupervised (SVD, PCA, k-means, Latent Dirichlet Allocation)
     - [x] A/B Testing (Hypothesis Testing) 
   <!--  - [x] Clustering (K-Means, GMM, Latent Dirichlet Allocation)       -->                        
   <!--   -->
@@ -44,7 +44,6 @@ ________________________________________________________________________________
 - [x] Linux shell scripting  
 - [x] High-performance computing               
 - [x] LaTeX
-- [x] Microsoft Word, Excel, and PowerPoint
 
 <!--     - T-test, Anova
     - [x] Time series analysis    -->
@@ -58,10 +57,13 @@ ________________________________________________________________________________
 My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Developing these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
 
 Main thesis contributions:
-- Led an experimental campaign on Princeton's 20TW laser system, which demonstrated waveform-controlled harmonic generation using a novel experimental technique (a multi-pass plasma mirror configuration), resulting in two conference presentations and a written manuscript
-- Curated and analyzed terabyte-scale simulation data to show that plasma mirrors are a practical choice for synthesizing and controlling the fundamental properties of intense light sources
-- Collaborated with research teams from Lawrence Livermore National Laboratory (LLNL) and the University of Michigan (CUOS group), where I co-designed and executed experiments
-
+- Curated and wrangled terabyte-scale simulation data on a high-performance computing cluster to build models of the ultraviolet and X-ray light sources generated in laser-plasma interactions
+- Utilized python (numpy and scikit-learn) to model the data with linear regression, identifying parameter regimes that optimize the energy in ultraviolet and X-ray light sources
+- Spearheaded the data collection and analysis of an experimental campaign which demonstrated a statistically significant 1.6x increase in ultraviolet light energy when using a 2-color laser instead of a 1-color laser
+- Presented key research findings at six technical conferences and in two peer-reviewed journal articles
+- Collaborated with teams at national labs and universities, contributing to data analysis and experiment execution
+- Mentored undergraduate and graduate students on their research projects, covering topics in solid-state harmonic generation, interaction of lasers with ultrathin (nm-scale) plasmas, and laser-brewed coffee
+  
 <picture> <img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_V2.jpg" alt="drawing" width="100%"/> </picture> 
 
 _____________________________________________________________________________________________
@@ -102,12 +104,12 @@ ________________________________________________________________________________
 ### Other coding projects
 
 #### 1) Shopping list in Google sheets [[Try it here]](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
-- **Project description:** Created a shopping list which automatically arranges selected items in the order that one walks through the store, making my shopping trips more efficient. Features include crossing off items with checkboxes, removing checked items, all items, or a single item by clicking a checkbox. Convenient addition of items using a searchable dropdown list. Future features will include pricing an aisle information from webscraped data and the ability to add entire recipes with one click.
+- **Project description:** Created a shopping list that automatically arranges selected items in the order that one walks through the store, making anyone's shopping experience more efficient. Features include adding items to the list using a searchable dropdown list, crossing off items on the list with checkboxes, and removing a single item or all items by clicking a checkbox. Future features will include pricing and aisle information from web-scraped data as well as the ability to add entire recipes with one click.
 - **Skills demonstrated:** google sheets, JavaScript programming 
 
 #### 2) Bash script for executing code through the Slurm scheduler [[Github Repo]](https://github.com/nfasano/bash_scripts_for_hpc)
 - **Description:** Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
-- **Skills demonstrated:** Linux shell scripting, High performance computing 
+- **Skills demonstrated:** Linux shell scripting, High-performance computing 
 
 <!-- - **Ray tracing renderer ** - (Github Repo)
     - Description: Following the "Ray Tracing in One Weekend" series by Peter Shirley, I implemented a functioning ray tracing algorithm capable of rendering spheres, boxes, triangles with the option for different textures.
