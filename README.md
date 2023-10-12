@@ -19,8 +19,8 @@ ________________________________________________________________________________
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects](#data-science-projects)
     * [Movie recommender system via a collaborative topic model](#1-movie-recommender-system-via-a-collaborative-topic-model-github-repo)
-    * [Sentiment classifier on black lives matter tweets](#2-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
-    * [Colosseum ticket tracker and alert system](#3-colosseum-ticket-tracker-and-alert-system-github-repo)  
+    * [Colosseum ticket tracker and alert system](#2-colosseum-ticket-tracker-and-alert-system-github-repo)  
+    * [Sentiment classifier on black lives matter tweets](#3-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
 * [Other Coding Projects](#other-coding-projects) 
     * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets-try-it-here) 
     * [Bash script for executing code through the Slurm scheduler](#2-bash-script-for-executing-code-through-the-slurm-scheduler-github-repo) 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 #### 1) Movie recommender system via a collaborative topic model [[Github Repo]](https://github.com/nfasano/movie_recsys)
 - **Project description:** Inspired by the seductive power of Tik-Tok's personalized feed and a strong desire to learn how industry recommender systems are designed, I developed an end-to-end movie recommender system. The recommender model is based on the Collaborative Topic Model (CTM), a hybrid approach that combines topic information from film scripts and user-movie interactions from a ratings matrix. The datasets consisted of web-scraped film scripts, movie metadata (IMDb.com), and user-movie ratings (MovieLens.org). This hybrid model achieves a modest improvement (1%) in root-mean-square error compared to traditional matrix factorization approaches, but alleviates the item cold-start problem thanks to the topic model. Finally, I deployed the recommender as a web-based app on Hugging Face Spaces for anyone to demo.
 
- [Get your movie recommendation now!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)
+ [Get your movie recommendation here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)
 - **Project outcomes:** 
     - Engineered a data pipeline for web-scraping, cleaning, and processing 160k film scripts using NLP. Synthesized film scripts with external datasets (IMDb and MovieLens) into a database that can be queried with SQL
     - Processed the film scripts dataset using NLP techniques, including stop word removal and lemmatization, and then created a bag-of-words representation for the corpus
@@ -83,7 +83,13 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________
 
-#### 2) Sentiment classifier on black lives matter tweets [[Github Repo]](https://github.com/nfasano/sentiment_classifier_blm_tweets)
+#### 2) Colosseum ticket tracker and alert system [[Github Repo]](https://github.com/nfasano/colosseum_ticket_tracker)
+- **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
+- **Skills demonstrated:** Webscraping, pandas, data visualization, data cleaning and processing
+
+____________________________________________________________________________________________
+
+#### 3) Sentiment classifier on black lives matter tweets [[Github Repo]](https://github.com/nfasano/sentiment_classifier_blm_tweets)
 - **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
 - **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held-out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
 - **Skills demonstrated:** Python, pandas, scikit-learn, sentiment analysis, NLP, lemmatization, hypothesis testing, classification models, and evaluation metrics
@@ -91,12 +97,6 @@ ________________________________________________________________________________
 <picture> <img src="https://github.com/nfasano/sentimentClassifier_blmTweets/blob/main/images/wordCloud.jpg" alt="drawing" width="80%"/> </picture> 
 
 *Figure caption: Word clouds for negatively and positively labelled tweets.*
-
-____________________________________________________________________________________________
-
-#### 3) Colosseum ticket tracker and alert system [[Github Repo]](https://github.com/nfasano/colosseum_ticket_tracker)
-- **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
-- **Skills demonstrated:** Webscraping, pandas, data visualization, data cleaning and processing
 _____________________________________________________________________________________________
 
 ### Other coding projects
