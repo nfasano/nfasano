@@ -8,9 +8,9 @@
 ____________________________________________________________________________________________
 
 ### About me
-I am an applied scientist at Princeton University looking for data science opportunities at mission-driven companies. I have six years of experience leading data-driven research projects and presenting the key findings of this research at technical conferences and through published articles. Beyond my own research, I have collaborated on several interdisciplinary projects with responsibilities including high-level project planning, data collection, analysis, and mentoring of undergraduate and graduate student researchers.
+I am an applied scientist at Princeton University looking for data science opportunities at mission-driven companies. I have six years of experience leading data-driven research projects aimed at developing advanced ultraviolet and X-ray light sources with potential applications in biology, medicine, material science, and fundamental physics. I have presented the key findings of my research at leading technical conferences and through published articles. Beyond my own research work, I have collaborated on several interdisciplinary projects with responsibilities including project planning, data collection, data analysis, and mentoring of undergraduate and graduate student researchers.
 
-With an innate curiosity and passion for learning, I am committed to staying at the forefront of data science and technology trends so that I can solve challenging problems and drive meaningful change.
+With an ongoing passion for learning, I am committed to staying at the forefront of data science and technology trends so that I can solve challenging problems and drive meaningful change.
 
 ____________________________________________________________________________________________
 
