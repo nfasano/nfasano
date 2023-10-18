@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ### Jump to section
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
-* [Data Science Projects](#data-science-projects)
+* [Data Science Projects (with write-ups)](#data-science-projects)
     * [Movie recommender system via a collaborative topic model](#1-movie-recommender-system-via-a-collaborative-topic-model-github-repo)
     * [Colosseum ticket tracker and alert system](#2-colosseum-ticket-tracker-and-alert-system-github-repo)  
     * [Sentiment classifier on black lives matter tweets](#3-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
