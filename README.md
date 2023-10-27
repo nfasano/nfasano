@@ -19,7 +19,7 @@ ________________________________________________________________________________
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects (with write-ups)](#data-science-projects)
     * [Movie recommender system via a collaborative topic model](#1-movie-recommender-system-via-a-collaborative-topic-model-github-repo)
-    * [Colosseum ticket tracker and alert system](#2-colosseum-ticket-tracker-and-alert-system-github-repo)  
+    * [A data-backed approach for securing tickets to see Rome's Colosseum](#2-a-data-backed-approach-for-securing-tickets-to-see-romes-colosseum)  
     * [Sentiment classifier on black lives matter tweets](#3-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
 * [Other Coding Projects](#other-coding-projects) 
     * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets-try-it-here) 
@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________
 
-#### 2) Colosseum ticket tracker and alert system [[Github Repo]](https://github.com/nfasano/colosseum_ticket_tracker)
+#### 2) A data-backed approach for securing tickets to see Rome's Colosseum [[Github Repo]](https://github.com/nfasano/colosseum_ticket_tracker)
 - **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
 - **Skills demonstrated:** Webscraping, pandas, data visualization, data cleaning and processing
 
