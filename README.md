@@ -6,12 +6,15 @@
 </h3>
 
 ____________________________________________________________________________________________
-
 ### About me
-I am an applied scientist at Princeton University looking for data science opportunities at mission-driven companies. I have six years of experience leading data-driven research projects aimed at developing advanced ultraviolet and X-ray light sources with potential applications in biology, medicine, material science, and fundamental physics. I have presented the key findings of my research at leading technical conferences and through published articles. Beyond my own research work, I have collaborated on several interdisciplinary projects with responsibilities including project planning, data collection, data analysis, and mentoring of undergraduate and graduate student researchers.
 
-With an ongoing passion for learning, I am committed to staying at the forefront of data science and technology trends so that I can solve challenging problems and drive meaningful change.
+I am an applied scientist at Princeton University looking for data science opportunities at mission-driven companies where I can leverage my technical experience, problem-solving capabilities, and collaborative nature to find innovative solutions that address real-world problems.
 
+I have six years of experience leading data-driven research projects on developing advanced ultraviolet and X-ray light sources for potential applications in biology, medicine, material science, and fundamental physics. I have presented the key findings of my research at leading technical conferences and in peer-reviewed journals. 
+
+Beyond my own research, I have collaborated on interdisciplinary projects with several responsibilities, including high-level project planning, data collection, analysis and interpretation of results, and mentoring of undergraduate and graduate student researchers.
+
+Moving forward, I am committed to staying at the forefront of data science and technology trends so that I can continue to solve challenging problems and drive meaningful change.
 ____________________________________________________________________________________________
 
 ### Jump to section
