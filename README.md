@@ -18,17 +18,17 @@ Moving forward, I am committed to staying at the forefront of data science and t
 ____________________________________________________________________________________________
 
 ### Jump to section
-* [Technical Skills](#technical-skills)      
-* [Dissertation Research Projects](#dissertation-research-projects)   
-* [Data Science Projects (with write-ups)](#data-science-projects)
+* [Technical skills](#technical-skills)      
+* [Dissertation research projects](#dissertation-research-projects)   
+* [Data science projects (with write-ups)](#data-science-projects)
     * [Enhanced movie recommendations using a collaborative topic model](#1-enhanced-movie-recommendations-using-a-collaborative-topic-model)
     * [A data-backed approach for securing tickets to see Rome's Colosseum](#2-a-data-backed-approach-for-securing-tickets-to-see-romes-colosseum)  
     * [Sentiment classifier on black lives matter tweets](#3-sentiment-classifier-on-black-lives-matter-tweets) 
-* [Other Coding Projects](#other-coding-projects) 
+* [Other coding projects](#other-coding-projects) 
     * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets) 
     * [Bash script for executing code through the Slurm scheduler](#2-bash-script-for-executing-code-through-the-slurm-scheduler) 
-* [Relevant Course Work](#relevant-course-work) 
-* [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
+* [Relevant course work](#relevant-course-work) 
+* [More about me (fun/miscellaneous)](#more-about-me-funmiscellaneous) 
 
 ____________________________________________________________________________________________
 
@@ -131,7 +131,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-### More about me (Fun/Miscellaneous)
+### More about me (fun/miscellaneous)
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I enjoy the art of photography, both for the journey of capturing the photo and for understanding the story that the photo tells
 
