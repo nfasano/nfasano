@@ -21,12 +21,12 @@ ________________________________________________________________________________
 * [Technical Skills](#technical-skills)      
 * [Dissertation Research Projects](#dissertation-research-projects)   
 * [Data Science Projects (with write-ups)](#data-science-projects)
-    * [Enhanced movie recommendations using a collaborative topic model](#1-enhanced-movie-recommendations-using-a-collaborative-topic-model-github-repo)
-    * [A data-backed approach for securing tickets to see Rome's Colosseum](#2-a-data-backed-approach-for-securing-tickets-to-see-romes-colosseum-github-repo)  
-    * [Sentiment classifier on black lives matter tweets](#3-sentiment-classifier-on-black-lives-matter-tweets-github-repo) 
+    * [Enhanced movie recommendations using a collaborative topic model](#1-enhanced-movie-recommendations-using-a-collaborative-topic-model)
+    * [A data-backed approach for securing tickets to see Rome's Colosseum](#2-a-data-backed-approach-for-securing-tickets-to-see-romes-colosseum)  
+    * [Sentiment classifier on black lives matter tweets](#3-sentiment-classifier-on-black-lives-matter-tweets) 
 * [Other Coding Projects](#other-coding-projects) 
-    * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets-try-it-here) 
-    * [Bash script for executing code through the Slurm scheduler](#2-bash-script-for-executing-code-through-the-slurm-scheduler-github-repo) 
+    * [Shopping list in Google sheets](#1-shopping-list-in-google-sheets) 
+    * [Bash script for executing code through the Slurm scheduler](#2-bash-script-for-executing-code-through-the-slurm-scheduler) 
 * [Relevant Course Work](#relevant-course-work) 
 * [More About Me (Fun/Miscellaneous)](#more-about-me-funmiscellaneous) 
 
@@ -74,7 +74,7 @@ ________________________________________________________________________________
 ### Data science projects
 
 #### 1) Enhanced movie recommendations using a collaborative topic model 
-[[Github Repo]](https://github.com/nfasano/movie_recsys)
+- [GitHub Repo](https://github.com/nfasano/movie_recsys)
 - **Project description:** Inspired by the seductive power of Tik-Tok's personalized feed and a strong desire to learn how industry recommender systems are designed, I developed an end-to-end movie recommender system. The recommender model is based on the Collaborative Topic Model (CTM), a hybrid approach that combines topic information from film scripts and user-movie interactions from a ratings matrix. The datasets consisted of web-scraped film scripts, movie metadata (IMDb.com), and user-movie ratings (MovieLens.org). This hybrid model achieves a modest improvement (1%) in root-mean-square error compared to traditional matrix factorization approaches, but alleviates the item cold-start problem thanks to the topic model. Finally, I deployed the recommender as a web-based app on Hugging Face Spaces for anyone to demo.
 
  [Get your movie recommendation here!](https://nmfasano5-content-based-movie-recommendation-system.hf.space)
@@ -89,13 +89,15 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________
 
-#### 2) A data-backed approach for securing tickets to see Rome's Colosseum [[Github Repo]](https://github.com/nfasano/colosseum_ticket_tracker)
+#### 2) A data-backed approach for securing tickets to see Rome's Colosseum 
+- [GitHub Repo](https://github.com/nfasano/colosseum_ticket_tracker)
 - **Project description:** Wrote an algorithm to track the ticket availability for entry into the Colosseum from the official website ([Coopculture](https://ecm.coopculture.it/index.php?lang=en)), where tickets are notoriously difficult to secure. Ticket availability was queried for 14 consecutive days in intervals between 3 seconds and one minute, depending on the time of day. Based on the collected data, a detailed plan is proposed to ensure that you get the best available tickets. Other features of the code allow for the user to be sent instantaneous email alerts with embedded links when tickets become available.
 - **Skills demonstrated:** Webscraping, pandas, data visualization, data cleaning and processing
 
 ____________________________________________________________________________________________
 
-#### 3) Sentiment classifier on black lives matter tweets [[Github Repo]](https://github.com/nfasano/sentiment_classifier_blm_tweets)
+#### 3) Sentiment classifier on black lives matter tweets 
+- [GitHub Repo](https://github.com/nfasano/sentiment_classifier_blm_tweets)
 - **Project description:** Given a dataset of 10,000+ tweets, I built a sentiment classifier to determine whether a given tweet was positive or negative toward the Black Lives Matter (BLM) movement. This work was completed as a course project for COS 524 at Princeton University.
 - **Project outcome:** Eight binary classifier models were built to predict whether the sentiment of a tweet was positive or negative toward the Black Lives Matter (BLM) movement. It was found that no model performed significantly better than naively assigning all tweets a positive label (which would yield an accuracy of 81%). Logistic regression achieved the best performance on the held-out test set with an accuracy of 83% and AUC of 0.79, but it was not substantially better than SVM (accuracy = 83%, auc = 0.75) or KNN (accuracy = 83%, AUC = 0.74). Naive Bayes had a low accuracy of 73%, but the highest precision at 92%, suggesting that an ensemble learning model may improve prediction accuracy. Note that chatGPT had an accuracy of 76% on the test dataset without any preprocessing.
 - **Skills demonstrated:** Python, pandas, scikit-learn, sentiment analysis, NLP, lemmatization, hypothesis testing, classification models, and evaluation metrics
@@ -107,17 +109,15 @@ ________________________________________________________________________________
 
 ### Other coding projects
 
-#### 1) Shopping list in Google sheets [[Try it here]](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
+#### 1) Shopping list in Google sheets 
+- [Try it here](https://docs.google.com/spreadsheets/d/1JmDtCFYWc8K8Y4g38fVQvjgUsC7UjRVS25mL4au47Pw/edit?usp=sharing)
 - **Project description:** Created a shopping list that automatically arranges selected items in the order that one walks through the store, making anyone's shopping experience more efficient. Features include adding items to the list using a searchable dropdown list, crossing off items on the list with checkboxes, and removing a single item or all items by clicking a checkbox. Future features will include pricing and aisle information from web-scraped data as well as the ability to add entire recipes with one click.
 - **Skills demonstrated:** google sheets, JavaScript programming 
 
-#### 2) Bash script for executing code through the Slurm scheduler [[Github Repo]](https://github.com/nfasano/bash_scripts_for_hpc)
+#### 2) Bash script for executing code through the Slurm scheduler 
+- [GitHub Repo](https://github.com/nfasano/bash_scripts_for_hpc)
 - **Description:** Wrote a bash script that submits batches of simulations with different parameters and requested computational resources to the Slurm scheduler (a commonly used cluster management and job scheduling system for HPC clusters). This script provides an organized framework for managing massively parallel simulations and terabyte-scale datasets and has been adopted by successive graduate students who use the HPC cluster in a myriad of ways.
 - **Skills demonstrated:** Linux shell scripting, High-performance computing 
-
-<!-- - **Ray tracing renderer ** - (Github Repo)
-    - Description: Following the "Ray Tracing in One Weekend" series by Peter Shirley, I implemented a functioning ray tracing algorithm capable of rendering spheres, boxes, triangles with the option for different textures.
-    - Skills demonstrated: C++, object oriented programming -->
 _____________________________________________________________________________________________
 
 ### Relevant course work:
@@ -135,10 +135,6 @@ ________________________________________________________________________________
 - I am a home cook who loves experimenting with new recipes and flavors from all cuisines
 - I enjoy the art of photography, both for the journey of capturing the photo and for understanding the story that the photo tells
 
-<!-- - ⚡ Fun fact about me: I made a grand entrance into the world by being born "en caul", a condition where a baby is delivered inside a fully intact amniotic sac. According to some cultures, this is considered a sign of good luck and it's also believed that babies born en caul are incapable of drowning. So, let's just say I'm a lucky and unsinkable little bundle of joy!"
--->
-
-
 <picture><img src="https://github.com/nfasano/nfasano/blob/main/images/2020_06_02_DSC_0133_4x6Print.jpg" alt="drawing" width="32%"/></picture>
 <picture><img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0216_4x6Print.jpg" alt="drawing" width="32%"/></picture> 
 <picture><img src="https://github.com/nfasano/nfasano/blob/main/images/DSC_0346_V3.png" alt="drawing" width="32%"/> </picture> 
@@ -149,17 +145,3 @@ ________________________________________________________________________________
 <picture><img src="https://github.com/nfasano/nfasano/blob/main/images/IMG_3533_2.jpg" alt="drawing" width="32%"/> </picture> 
 <picture><img src="https://github.com/nfasano/nfasano/blob/main/images/Ramen_22.jpg" alt="drawing" width="32%"/> </picture> 
 
-<!--
-**nfasano/nfasano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-
--->
