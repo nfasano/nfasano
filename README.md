@@ -57,7 +57,9 @@ ________________________________________________________________________________
 - [Thesis](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_dissertation_final_compressed.pdf) - Link to view and download my thesis
 - [Final public oral slides](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_final_public_oral.pdf) - Link to view and download slides from my thesis defense
 
-My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Developing these light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
+My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Developing these advanced light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
+
+<picture> <img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_V2.jpg" alt="drawing" width="100%"/> </picture> 
 
 Main thesis contributions:
 - Curated and wrangled terabyte-scale simulation data on a high-performance computing cluster to build models of the ultraviolet and X-ray light sources generated in laser-plasma interactions
@@ -66,8 +68,6 @@ Main thesis contributions:
 - Presented key research findings at six technical conferences and in two peer-reviewed journal articles
 - Collaborated with teams at national labs and universities, contributing to data analysis and experiment execution
 - Mentored undergraduate and graduate students on their research projects, covering topics in solid-state harmonic generation, interaction of lasers with ultrathin (nm-scale) plasmas, and laser-brewed coffee
-  
-<picture> <img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_V2.jpg" alt="drawing" width="100%"/> </picture> 
 
 _____________________________________________________________________________________________
 
