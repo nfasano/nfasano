@@ -57,7 +57,7 @@ ________________________________________________________________________________
 - [Thesis](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_dissertation_final_compressed.pdf) - Link to view and download my thesis
 - [Final public oral slides](https://github.com/nfasano/nfasano/blob/main/dissertation/Fasano_final_public_oral.pdf) - Link to view and download slides from my thesis defense
 
-My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Developing these advanced light sources requires advancements in high-power laser science, plasma-based optics, and numerical simulations. 
+My dissertation research focused on high-intensity light-matter interactions, where I combined large experimental and numerical datasets to engineer the next generation of short-wavelength, high-power light sources. Developing these advanced light sources requires advancements in high-power laser science, massively parallel numerical simulations, and plasma-based optics.
 
 <picture> <img src="https://github.com/nfasano/nfasano/blob/main/images/DissertationResearchSummary_V2.jpg" alt="drawing" width="100%"/> </picture> 
 
