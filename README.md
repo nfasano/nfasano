@@ -84,7 +84,7 @@ ________________________________________________________________________________
     - Built a collaborative topic model (latent Dirichlet allocation + SVD) that shows a modest (1%) improvement in RMSE compared to SVD alone, but alleviates the new item cold-start problem with a recall@20 score of 41% for unrated movies
     - To serve the recommendations, I built a web-based app using gradio and deployed it to Hugging Face's Spaces. The app returns the recommendations, ranked according to cosine-similarity between the movies latent topics, along with IMDb metadata (genre, IMDb rating, IMDb link) and poster art from tmdb.org.
 - **Future work:**
-    - Build word and image embeddings using film scripts and movie posters, respectively, and build a recommender model based on the two-tower architecture
+    - Build word and image embeddings using film scripts and movie posters, respectively, and build a ranking model based on the two-tower architecture
 - **Skills demonstrated:** Webscraping (beautifulSoup, selenium), SQL, Python, pandas, scikit-learn, NLP, lemmatization, Latent Dirichlet Allocation, SVD, Gradio
 
 ____________________________________________________________________________________________
