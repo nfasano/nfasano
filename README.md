@@ -14,7 +14,9 @@ I have six years of experience leading data-driven research projects on developi
 
 Beyond my own research, I have collaborated on interdisciplinary projects with several responsibilities, including high-level project planning, data collection, analysis and interpretation of results, and mentoring of undergraduate and graduate student researchers.
 
-Moving forward, I am committed to staying at the forefront of data science and technology trends so that I can continue to solve challenging problems and drive meaningful change.
+Outside the lab, my passion for education led me to enroll in the Teaching Transcript Program offered by Princeton's McGraw Center for Teaching and Learning. In this program, I taught for six semesters and participated in several pedagogy workshops where I engaged in discussions to learn and develop strategies that improve student learning. The program culminated with me writing an original course syllabus and a teaching philosophy statement, for which I received a teaching certificate from the McGraw Center.
+
+Moving forward, I am committed to staying at the forefront of data science and technology trends so that I can continue to solve challenging problems and effectively communicate my findings to stakeholders and collaborators.
 ____________________________________________________________________________________________
 
 ### Jump to section
